@@ -1,2161 +1,2161 @@
 [
     {
-        "region": "Arica y Parinacota",
-        "capital_regional": "Arica",
+        "region": "ARICA Y PARINACOTA",
+        "capital_regional": "ARICA",
         "provincias": [
             {
-                "nombre": "Arica",
-                "capital": "Arica",
+                "nombre": "ARICA",
+                "capital": "ARICA",
                 "comunas": [
                     {
-                        "nombre": "Arica",
-                        "ciudad": "Arica",
-                        "codigo": "ap0101"
+                        "nombre": "ARICA",
+                        "ciudad": "ARICA",
+                        "codigo": "AP0101"
                     },
                     {
-                        "nombre": "Camarones",
-                        "ciudad": "Arica",
-                        "codigo": "ap0102"
+                        "nombre": "CAMARONES",
+                        "ciudad": "ARICA",
+                        "codigo": "AP0102"
                     }
                 ]
             },
             {
-                "nombre": "Parinacota",
-                "capital": "Putre",
+                "nombre": "PARINACOTA",
+                "capital": "PUTRE",
                 "comunas": [
                     {
-                        "nombre": "Putre",
-                        "ciudad": "Putre",
-                        "codigo": "ap0201"
+                        "nombre": "PUTRE",
+                        "ciudad": "PUTRE",
+                        "codigo": "AP0201"
                     },
                     {
-                        "nombre": "General Lagos",
-                        "ciudad": "Putre",
-                        "codigo": "ap0202"
+                        "nombre": "GENERAL LAGOS",
+                        "ciudad": "PUTRE",
+                        "codigo": "AP0202"
                     }
                 ]
             }
         ]
     },
     {
-        "region": "Tarapacá",
-        "capital_regional": "Iquique",
+        "region": "TARAPACA",
+        "capital_regional": "IQUIQUE",
         "provincias": [
             {
-                "nombre": "Iquique",
-                "capital": "Iquique",
+                "nombre": "IQUIQUE",
+                "capital": "IQUIQUE",
                 "comunas": [
                     {
-                        "nombre": "Iquique",
-                        "ciudad": "Iquique",
-                        "codigo": "ta0101"
+                        "nombre": "IQUIQUE",
+                        "ciudad": "IQUIQUE",
+                        "codigo": "TA0101"
                     },
                     {
-                        "nombre": "Alto Hospicio",
-                        "ciudad": "Iquique",
-                        "codigo": "ta0102"
+                        "nombre": "ALTO HOSPICIO",
+                        "ciudad": "IQUIQUE",
+                        "codigo": "TA0102"
                     }
                 ]
             },
             {
-                "nombre": "Tamarugal",
-                "capital": "Pozo Almonte",
+                "nombre": "TAMARUGAL",
+                "capital": "POZO ALMONTE",
                 "comunas": [
                     {
-                        "nombre": "Pozo Almonte",
-                        "ciudad": "Pozo Almonte",
-                        "codigo": "ta0201"
+                        "nombre": "POZO ALMONTE",
+                        "ciudad": "POZO ALMONTE",
+                        "codigo": "TA0201"
                     },
                     {
-                        "nombre": "Camiña",
-                        "ciudad": "Pozo Almonte",
-                        "codigo": "ta0202"
+                        "nombre": "CAMINA",
+                        "ciudad": "POZO ALMONTE",
+                        "codigo": "TA0202"
                     },
                     {
-                        "nombre": "Colchane",
-                        "ciudad": "Pozo Almonte",
-                        "codigo": "ta0203"
+                        "nombre": "COLCHANE",
+                        "ciudad": "POZO ALMONTE",
+                        "codigo": "TA0203"
                     },
                     {
-                        "nombre": "Huara",
-                        "ciudad": "Pozo Almonte",
-                        "codigo": "ta0204"
+                        "nombre": "HUARA",
+                        "ciudad": "POZO ALMONTE",
+                        "codigo": "TA0204"
                     },
                     {
-                        "nombre": "Pica",
-                        "ciudad": "Pozo Almonte",
-                        "codigo": "ta0205"
+                        "nombre": "PICA",
+                        "ciudad": "POZO ALMONTE",
+                        "codigo": "TA0205"
                     }
                 ]
             }
         ]
     },
     {
-        "region": "Antofagasta",
-        "capital_regional": "Antofagasta",
+        "region": "ANTOFAGASTA",
+        "capital_regional": "ANTOFAGASTA",
         "provincias": [
             {
-                "nombre": "Antofagasta",
-                "capital": "Antofagasta",
+                "nombre": "ANTOFAGASTA",
+                "capital": "ANTOFAGASTA",
                 "comunas": [
                     {
-                        "nombre": "Antofagasta",
-                        "ciudad": "Antofagasta",
-                        "codigo": "an0101"
+                        "nombre": "ANTOFAGASTA",
+                        "ciudad": "ANTOFAGASTA",
+                        "codigo": "AN0101"
                     },
                     {
-                        "nombre": "Mejillones",
-                        "ciudad": "Antofagasta",
-                        "codigo": "an0102"
+                        "nombre": "MEJILLONES",
+                        "ciudad": "ANTOFAGASTA",
+                        "codigo": "AN0102"
                     },
                     {
-                        "nombre": "Sierra Gorda",
-                        "ciudad": "Antofagasta",
-                        "codigo": "an0103"
+                        "nombre": "SIERRA GORDA",
+                        "ciudad": "ANTOFAGASTA",
+                        "codigo": "AN0103"
                     },
                     {
-                        "nombre": "Taltal",
-                        "ciudad": "Antofagasta",
-                        "codigo": "an0104"
+                        "nombre": "TALTAL",
+                        "ciudad": "ANTOFAGASTA",
+                        "codigo": "AN0104"
                     }
                 ]
             },
             {
-                "nombre": "El Loa",
-                "capital": "Calama",
+                "nombre": "EL LOA",
+                "capital": "CALAMA",
                 "comunas": [
                     {
-                        "nombre": "Calama",
-                        "ciudad": "Calama",
-                        "codigo": "an0201"
+                        "nombre": "CALAMA",
+                        "ciudad": "CALAMA",
+                        "codigo": "AN0201"
                     },
                     {
-                        "nombre": "Ollagüe",
-                        "ciudad": "Calama",
-                        "codigo": "an0202"
+                        "nombre": "OLLAGUE",
+                        "ciudad": "CALAMA",
+                        "codigo": "AN0202"
                     },
                     {
-                        "nombre": "San Pedro de Atacama",
-                        "ciudad": "Calama",
-                        "codigo": "an0203"
+                        "nombre": "SAN PEDRO DE ATACAMA",
+                        "ciudad": "CALAMA",
+                        "codigo": "AN0203"
                     }
                 ]
             },
             {
-                "nombre": "Tocopilla",
-                "capital": "Tocopilla",
+                "nombre": "TOCOPILLA",
+                "capital": "TOCOPILLA",
                 "comunas": [
                     {
-                        "nombre": "Tocopilla",
-                        "ciudad": "Tocopilla",
-                        "codigo": "an0301"
+                        "nombre": "TOCOPILLA",
+                        "ciudad": "TOCOPILLA",
+                        "codigo": "AN0301"
                     },
                     {
-                        "nombre": "María Elena",
-                        "ciudad": "Tocopilla",
-                        "codigo": "an0302"
+                        "nombre": "MARIA ELENA",
+                        "ciudad": "TOCOPILLA",
+                        "codigo": "AN0302"
                     }
                 ]
             }
         ]
     },
     {
-        "region": "Atacama",
-        "capital_regional": "Copiapo",
+        "region": "ATACAMA",
+        "capital_regional": "COPIAPO",
         "provincias": [
             {
-                "nombre": "Copiapó",
-                "capital": "Copiapó",
+                "nombre": "COPIAPO",
+                "capital": "COPIAPO",
                 "comunas": [
                     {
-                        "nombre": "Copiapó",
-                        "ciudad": "Copiapó",
-                        "codigo": "at0101"
+                        "nombre": "COPIAPO",
+                        "ciudad": "COPIAPO",
+                        "codigo": "AT0101"
                     },
                     {
-                        "nombre": "Caldera",
-                        "ciudad": "Copiapó",
-                        "codigo": "at0102"
+                        "nombre": "CALDERA",
+                        "ciudad": "COPIAPO",
+                        "codigo": "AT0102"
                     },
                     {
-                        "nombre": "Tierra Amarilla",
-                        "ciudad": "Copiapó",
-                        "codigo": "at0103"
+                        "nombre": "TIERRA AMARILLA",
+                        "ciudad": "COPIAPO",
+                        "codigo": "AT0103"
                     }
                 ]
             },
             {
-                "nombre": "Chañaral",
-                "capital": "Chañaral",
+                "nombre": "CHANARAL",
+                "capital": "CHANARAL",
                 "comunas": [
                     {
-                        "nombre": "Chañaral",
-                        "ciudad": "Chañaral",
-                        "codigo": "at0201"
+                        "nombre": "CHANARAL",
+                        "ciudad": "CHANARAL",
+                        "codigo": "AT0201"
                     },
                     {
-                        "nombre": "Diego de Almagro",
-                        "ciudad": "Chañaral",
-                        "codigo": "at0202"
+                        "nombre": "DIEGO DE ALMAGRO",
+                        "ciudad": "CHANARAL",
+                        "codigo": "AT0202"
                     }
                 ]
             },
             {
-                "nombre": "Huasco",
-                "capital": "Vallenar",
+                "nombre": "HUASCO",
+                "capital": "VALLENAR",
                 "comunas": [
                     {
-                        "nombre": "Vallenar",
-                        "ciudad": "Vallenar",
-                        "codigo": "at0301"
+                        "nombre": "VALLENAR",
+                        "ciudad": "VALLENAR",
+                        "codigo": "AT0301"
                     },
                     {
-                        "nombre": "Alto del Carmen",
-                        "ciudad": "Vallenar",
-                        "codigo": "at0302"
+                        "nombre": "ALTO DEL CARMEN",
+                        "ciudad": "VALLENAR",
+                        "codigo": "AT0302"
                     },
                     {
-                        "nombre": "Freirina",
-                        "ciudad": "Vallenar",
-                        "codigo": "at0303"
+                        "nombre": "FREIRINA",
+                        "ciudad": "VALLENAR",
+                        "codigo": "AT0303"
                     },
                     {
-                        "nombre": "Huasco",
-                        "ciudad": "Vallenar",
-                        "codigo": "at0304"
+                        "nombre": "HUASCO",
+                        "ciudad": "VALLENAR",
+                        "codigo": "AT0304"
                     }
                 ]
             }
         ]
     },
     {
-        "region": "Coquimbo",
-        "capital_regional": "La Serena",
+        "region": "COQUIMBO",
+        "capital_regional": "LA SERENA",
         "provincias": [
             {
-                "nombre": "Elqui",
-                "capital": "Coquimbo",
+                "nombre": "ELQUI",
+                "capital": "COQUIMBO",
                 "comunas": [
                     {
-                        "nombre": "La Serena",
-                        "ciudad": "Coquimbo",
-                        "codigo": "co0101"
+                        "nombre": "LA SERENA",
+                        "ciudad": "COQUIMBO",
+                        "codigo": "CO0101"
                     },
                     {
-                        "nombre": "Coquimbo",
-                        "ciudad": "Coquimbo",
-                        "codigo": "co0102"
+                        "nombre": "COQUIMBO",
+                        "ciudad": "COQUIMBO",
+                        "codigo": "CO0102"
                     },
                     {
-                        "nombre": "Andacollo",
-                        "ciudad": "Coquimbo",
-                        "codigo": "co0103"
+                        "nombre": "ANDACOLLO",
+                        "ciudad": "COQUIMBO",
+                        "codigo": "CO0103"
                     },
                     {
-                        "nombre": "La Higuera",
-                        "ciudad": "Coquimbo",
-                        "codigo": "co0104"
+                        "nombre": "LA HIGUERA",
+                        "ciudad": "COQUIMBO",
+                        "codigo": "CO0104"
                     },
                     {
-                        "nombre": "Paiguano",
-                        "ciudad": "Coquimbo",
-                        "codigo": "co0105"
+                        "nombre": "PAIGUANO",
+                        "ciudad": "COQUIMBO",
+                        "codigo": "CO0105"
                     },
                     {
-                        "nombre": "Vicuña",
-                        "ciudad": "Coquimbo",
-                        "codigo": "co0106"
+                        "nombre": "VICUNA",
+                        "ciudad": "COQUIMBO",
+                        "codigo": "CO0106"
                     }
                 ]
             },
             {
-                "nombre": "Choapa",
-                "capital": "Illapel",
+                "nombre": "CHOAPA",
+                "capital": "ILLAPEL",
                 "comunas": [
                     {
-                        "nombre": "Illapel",
-                        "ciudad": "Illapel",
-                        "codigo": "co0201"
+                        "nombre": "ILLAPEL",
+                        "ciudad": "ILLAPEL",
+                        "codigo": "CO0201"
                     },
                     {
-                        "nombre": "Canela",
-                        "ciudad": "Illapel",
-                        "codigo": "co0202"
+                        "nombre": "CANELA",
+                        "ciudad": "ILLAPEL",
+                        "codigo": "CO0202"
                     },
                     {
-                        "nombre": "Los Vilos",
-                        "ciudad": "Illapel",
-                        "codigo": "co0203"
+                        "nombre": "LOS VILOS",
+                        "ciudad": "ILLAPEL",
+                        "codigo": "CO0203"
                     },
                     {
-                        "nombre": "Salamanca",
-                        "ciudad": "Illapel",
-                        "codigo": "co0204"
+                        "nombre": "SALAMANCA",
+                        "ciudad": "ILLAPEL",
+                        "codigo": "CO0204"
                     }
                 ]
             },
             {
-                "nombre": "Limarí",
-                "capital": "Ovalle",
+                "nombre": "LIMARI",
+                "capital": "OVALLE",
                 "comunas": [
                     {
-                        "nombre": "Ovalle",
-                        "ciudad": "Ovalle",
-                        "codigo": "co0301"
+                        "nombre": "OVALLE",
+                        "ciudad": "OVALLE",
+                        "codigo": "CO0301"
                     },
                     {
-                        "nombre": "Combarbalá",
-                        "ciudad": "Ovalle",
-                        "codigo": "co0302"
+                        "nombre": "COMBARBALA",
+                        "ciudad": "OVALLE",
+                        "codigo": "CO0302"
                     },
                     {
-                        "nombre": "Monte Patria",
-                        "ciudad": "Ovalle",
-                        "codigo": "co0303"
+                        "nombre": "MONTE PATRIA",
+                        "ciudad": "OVALLE",
+                        "codigo": "CO0303"
                     },
                     {
-                        "nombre": "Punitaqui",
-                        "ciudad": "Ovalle",
-                        "codigo": "co0304"
+                        "nombre": "PUNITAQUI",
+                        "ciudad": "OVALLE",
+                        "codigo": "CO0304"
                     },
                     {
-                        "nombre": "Río Hurtado",
-                        "ciudad": "Ovalle",
-                        "codigo": "co0305"
+                        "nombre": "RIO HURTADO",
+                        "ciudad": "OVALLE",
+                        "codigo": "CO0305"
                     }
                 ]
             }
         ]
     },
     {
-        "region": "Valparaíso",
-        "capital_regional": "Valparaíso",
+        "region": "VALPARAISO",
+        "capital_regional": "VALPARAISO",
         "provincias": [
             {
-                "nombre": "Valparaíso",
-                "capital": "Valparaíso",
+                "nombre": "VALPARAISO",
+                "capital": "VALPARAISO",
                 "comunas": [
                     {
-                        "nombre": "Valparaíso",
-                        "ciudad": "Valparaíso",
-                        "codigo": "vs0101"
+                        "nombre": "VALPARAISO",
+                        "ciudad": "VALPARAISO",
+                        "codigo": "VS0101"
                     },
                     {
-                        "nombre": "Casablanca",
-                        "ciudad": "Valparaíso",
-                        "codigo": "vs0102"
+                        "nombre": "CASABLANCA",
+                        "ciudad": "VALPARAISO",
+                        "codigo": "VS0102"
                     },
                     {
-                        "nombre": "Concón",
-                        "ciudad": "Valparaíso",
-                        "codigo": "vs0103"
+                        "nombre": "CONCON",
+                        "ciudad": "VALPARAISO",
+                        "codigo": "VS0103"
                     },
                     {
-                        "nombre": "Juan Fernández",
-                        "ciudad": "Valparaíso",
-                        "codigo": "vs0104"
+                        "nombre": "JUAN FERNANDEZ",
+                        "ciudad": "VALPARAISO",
+                        "codigo": "VS0104"
                     },
                     {
-                        "nombre": "Puchuncaví",
-                        "ciudad": "Valparaíso",
-                        "codigo": "vs0105"
+                        "nombre": "PUCHUNCAVI",
+                        "ciudad": "VALPARAISO",
+                        "codigo": "VS0105"
                     },
                     {
-                        "nombre": "Quintero",
-                        "ciudad": "Valparaíso",
-                        "codigo": "vs0107"
+                        "nombre": "QUINTERO",
+                        "ciudad": "VALPARAISO",
+                        "codigo": "VS0107"
                     },
                     {
-                        "nombre": "Viña del Mar",
-                        "ciudad": "Valparaíso",
-                        "codigo": "vs0109"
+                        "nombre": "VINA DEL MAR",
+                        "ciudad": "VALPARAISO",
+                        "codigo": "VS0109"
                     }
                 ]
             },
             {
-                "nombre": "Isla de Pascua",
-                "capital": "Hanga Roa",
+                "nombre": "ISLA DE PASCUA",
+                "capital": "HANGA ROA",
                 "comunas": [
                     {
-                        "nombre": "Isla de Pascua",
-                        "ciudad": "Hanga Roa",
-                        "codigo": "vs0201"
+                        "nombre": "ISLA DE PASCUA",
+                        "ciudad": "HANGA ROA",
+                        "codigo": "VS0201"
                     }
                 ]
             },
             {
-                "nombre": "Los Andes",
-                "capital": "Los Andes",
+                "nombre": "LOS ANDES",
+                "capital": "LOS ANDES",
                 "comunas": [
                     {
-                        "nombre": "Los Andes",
-                        "ciudad": "Los Andes",
-                        "codigo": "vs0301"
+                        "nombre": "LOS ANDES",
+                        "ciudad": "LOS ANDES",
+                        "codigo": "VS0301"
                     },
                     {
-                        "nombre": "Calle Larga",
-                        "ciudad": "Los Andes",
-                        "codigo": "vs0302"
+                        "nombre": "CALLE LARGA",
+                        "ciudad": "LOS ANDES",
+                        "codigo": "VS0302"
                     },
                     {
-                        "nombre": "Rinconada",
-                        "ciudad": "Los Andes",
-                        "codigo": "vs0303"
+                        "nombre": "RINCONADA",
+                        "ciudad": "LOS ANDES",
+                        "codigo": "VS0303"
                     },
                     {
-                        "nombre": "San Esteban",
-                        "ciudad": "Los Andes",
-                        "codigo": "vs0304"
+                        "nombre": "SAN ESTEBAN",
+                        "ciudad": "LOS ANDES",
+                        "codigo": "VS0304"
                     }
                 ]
             },
             {
-                "nombre": "Petorca",
-                "capital": "La Ligua",
+                "nombre": "PETORCA",
+                "capital": "LA LIGUA",
                 "comunas": [
                     {
-                        "nombre": "La Ligua",
-                        "ciudad": "La Ligua",
-                        "codigo": "vs0401"
+                        "nombre": "LA LIGUA",
+                        "ciudad": "LA LIGUA",
+                        "codigo": "VS0401"
                     },
                     {
-                        "nombre": "Cabildo",
-                        "ciudad": "La Ligua",
-                        "codigo": "vs0402"
+                        "nombre": "CABILDO",
+                        "ciudad": "LA LIGUA",
+                        "codigo": "VS0402"
                     },
                     {
-                        "nombre": "Papudo",
-                        "ciudad": "La Ligua",
-                        "codigo": "vs0403"
+                        "nombre": "PAPUDO",
+                        "ciudad": "LA LIGUA",
+                        "codigo": "VS0403"
                     },
                     {
-                        "nombre": "Petorca",
-                        "ciudad": "La Ligua",
-                        "codigo": "vs0404"
+                        "nombre": "PETORCA",
+                        "ciudad": "LA LIGUA",
+                        "codigo": "VS0404"
                     },
                     {
-                        "nombre": "Zapallar",
-                        "ciudad": "La Ligua",
-                        "codigo": "vs0405"
+                        "nombre": "ZAPALLAR",
+                        "ciudad": "LA LIGUA",
+                        "codigo": "VS0405"
                     }
                 ]
             },
             {
-                "nombre": "Quillota",
-                "capital": "Quillota",
+                "nombre": "QUILLOTA",
+                "capital": "QUILLOTA",
                 "comunas": [
                     {
-                        "nombre": "Quillota",
-                        "ciudad": "Quillota",
-                        "codigo": "vs0501"
+                        "nombre": "QUILLOTA",
+                        "ciudad": "QUILLOTA",
+                        "codigo": "VS0501"
                     },
                     {
-                        "nombre": "Calera",
-                        "ciudad": "Quillota",
-                        "codigo": "vs0502"
+                        "nombre": "CALERA",
+                        "ciudad": "QUILLOTA",
+                        "codigo": "VS0502"
                     },
                     {
-                        "nombre": "Hijuelas",
-                        "ciudad": "Quillota",
-                        "codigo": "vs0503"
+                        "nombre": "HIJUELAS",
+                        "ciudad": "QUILLOTA",
+                        "codigo": "VS0503"
                     },
                     {
-                        "nombre": "La Cruz",
-                        "ciudad": "Quillota",
-                        "codigo": "vs0504"
+                        "nombre": "LA CRUZ",
+                        "ciudad": "QUILLOTA",
+                        "codigo": "VS0504"
                     },
                     {
-                        "nombre": "Nogales",
-                        "ciudad": "Quillota",
-                        "codigo": "vs0506"
+                        "nombre": "NOGALES",
+                        "ciudad": "QUILLOTA",
+                        "codigo": "VS0506"
                     }
                 ]
             },
             {
-                "nombre": "San Antonio",
-                "capital": "San Antonio",
+                "nombre": "SAN ANTONIO",
+                "capital": "SAN ANTONIO",
                 "comunas": [
                     {
-                        "nombre": "San Antonio",
-                        "ciudad": "San Antonio",
-                        "codigo": "vs0601"
+                        "nombre": "SAN ANTONIO",
+                        "ciudad": "SAN ANTONIO",
+                        "codigo": "VS0601"
                     },
                     {
-                        "nombre": "Algarrobo",
-                        "ciudad": "San Antonio",
-                        "codigo": "vs0602"
+                        "nombre": "ALGARROBO",
+                        "ciudad": "SAN ANTONIO",
+                        "codigo": "VS0602"
                     },
                     {
-                        "nombre": "Cartagena",
-                        "ciudad": "San Antonio",
-                        "codigo": "vs0603"
+                        "nombre": "CARTAGENA",
+                        "ciudad": "SAN ANTONIO",
+                        "codigo": "VS0603"
                     },
                     {
-                        "nombre": "El Quisco",
-                        "ciudad": "San Antonio",
-                        "codigo": "vs0604"
+                        "nombre": "EL QUISCO",
+                        "ciudad": "SAN ANTONIO",
+                        "codigo": "VS0604"
                     },
                     {
-                        "nombre": "El Tabo",
-                        "ciudad": "San Antonio",
-                        "codigo": "vs0605"
+                        "nombre": "EL TABO",
+                        "ciudad": "SAN ANTONIO",
+                        "codigo": "VS0605"
                     },
                     {
-                        "nombre": "Santo Domingo",
-                        "ciudad": "San Antonio",
-                        "codigo": "vs0606"
+                        "nombre": "SANTO DOMINGO",
+                        "ciudad": "SAN ANTONIO",
+                        "codigo": "VS0606"
                     }
                 ]
             },
             {
-                "nombre": "San Felipe de Aconcagua",
-                "capital": "San Felipe",
+                "nombre": "SAN FELIPE DE ACONCAGUA",
+                "capital": "SAN FELIPE",
                 "comunas": [
                     {
-                        "nombre": "San Felipe",
-                        "ciudad": "San Felipe",
-                        "codigo": "vs0701"
+                        "nombre": "SAN FELIPE",
+                        "ciudad": "SAN FELIPE",
+                        "codigo": "VS0701"
                     },
                     {
-                        "nombre": "Catemu",
-                        "ciudad": "San Felipe",
-                        "codigo": "vs0702"
+                        "nombre": "CATEMU",
+                        "ciudad": "SAN FELIPE",
+                        "codigo": "VS0702"
                     },
                     {
-                        "nombre": "Llaillay",
-                        "ciudad": "San Felipe",
-                        "codigo": "vs0703"
+                        "nombre": "LLAILLAY",
+                        "ciudad": "SAN FELIPE",
+                        "codigo": "VS0703"
                     },
                     {
-                        "nombre": "Panquehue",
-                        "ciudad": "San Felipe",
-                        "codigo": "vs0704"
+                        "nombre": "PANQUEHUE",
+                        "ciudad": "SAN FELIPE",
+                        "codigo": "VS0704"
                     },
                     {
-                        "nombre": "Putaendo",
-                        "ciudad": "San Felipe",
-                        "codigo": "vs0705"
+                        "nombre": "PUTAENDO",
+                        "ciudad": "SAN FELIPE",
+                        "codigo": "VS0705"
                     },
                     {
-                        "nombre": "Santa María",
-                        "ciudad": "San Felipe",
-                        "codigo": "vs0706"
+                        "nombre": "SANTA MARIA",
+                        "ciudad": "SAN FELIPE",
+                        "codigo": "VS0706"
                     }
                 ]
             },
             {
-                "nombre": "Marga Marga",
-                "capital": "Quilpué",
+                "nombre": "MARGA MARGA",
+                "capital": "QUILPUE",
                 "comunas": [
                     {
-                        "nombre": "Quilpué",
-                        "ciudad": "Quilpué",
-                        "codigo": "vs0801"
+                        "nombre": "QUILPUE",
+                        "ciudad": "QUILPUE",
+                        "codigo": "VS0801"
                     },
                     {
-                        "nombre": "Limache",
-                        "ciudad": "Quilpué",
-                        "codigo": "vs0802"
+                        "nombre": "LIMACHE",
+                        "ciudad": "QUILPUE",
+                        "codigo": "VS0802"
                     },
                     {
-                        "nombre": "Olmué",
-                        "ciudad": "Quilpué",
-                        "codigo": "vs0803"
+                        "nombre": "OLMUE",
+                        "ciudad": "QUILPUE",
+                        "codigo": "VS0803"
                     },
                     {
-                        "nombre": "Villa Alemana",
-                        "ciudad": "Quilpué",
-                        "codigo": "vs0804"
+                        "nombre": "VILLA ALEMANA",
+                        "ciudad": "QUILPUE",
+                        "codigo": "VS0804"
                     }
                 ]
             }
         ]
     },
     {
-        "region": "Región del Libertador Gral. Bernardo O'Higgins",
-        "capital_regional": "Rancagua",
+        "region": "REGION DEL LIBERTADOR GRAL. BERNARDO O'HIGGINS",
+        "capital_regional": "RANCAGUA",
         "provincias": [
             {
-                "nombre": "Cachapoal",
-                "capital": "Rancagua",
+                "nombre": "CACHAPOAL",
+                "capital": "RANCAGUA",
                 "comunas": [
                     {
-                        "nombre": "Rancagua",
-                        "ciudad": "Rancagua",
-                        "codigo": "li0101"
+                        "nombre": "RANCAGUA",
+                        "ciudad": "RANCAGUA",
+                        "codigo": "LI0101"
                     },
                     {
-                        "nombre": "Codegua",
-                        "ciudad": "Rancagua",
-                        "codigo": "li0102"
+                        "nombre": "CODEGUA",
+                        "ciudad": "RANCAGUA",
+                        "codigo": "LI0102"
                     },
                     {
-                        "nombre": "Coinco",
-                        "ciudad": "Rancagua",
-                        "codigo": "li0103"
+                        "nombre": "COINCO",
+                        "ciudad": "RANCAGUA",
+                        "codigo": "LI0103"
                     },
                     {
-                        "nombre": "Coltauco",
-                        "ciudad": "Rancagua",
-                        "codigo": "li0104"
+                        "nombre": "COLTAUCO",
+                        "ciudad": "RANCAGUA",
+                        "codigo": "LI0104"
                     },
                     {
-                        "nombre": "Doñihue",
-                        "ciudad": "Rancagua",
-                        "codigo": "li0105"
+                        "nombre": "DONIHUE",
+                        "ciudad": "RANCAGUA",
+                        "codigo": "LI0105"
                     },
                     {
-                        "nombre": "Graneros",
-                        "ciudad": "Rancagua",
-                        "codigo": "li0106"
+                        "nombre": "GRANEROS",
+                        "ciudad": "RANCAGUA",
+                        "codigo": "LI0106"
                     },
                     {
-                        "nombre": "Las Cabras",
-                        "ciudad": "Rancagua",
-                        "codigo": "li0107"
+                        "nombre": "LAS CABRAS",
+                        "ciudad": "RANCAGUA",
+                        "codigo": "LI0107"
                     },
                     {
-                        "nombre": "Machalí",
-                        "ciudad": "Rancagua",
-                        "codigo": "li0108"
+                        "nombre": "MACHALI",
+                        "ciudad": "RANCAGUA",
+                        "codigo": "LI0108"
                     },
                     {
-                        "nombre": "Malloa",
-                        "ciudad": "Rancagua",
-                        "codigo": "li0109"
+                        "nombre": "MALLOA",
+                        "ciudad": "RANCAGUA",
+                        "codigo": "LI0109"
                     },
                     {
-                        "nombre": "Mostazal",
-                        "ciudad": "Rancagua",
-                        "codigo": "li0110"
+                        "nombre": "MOSTAZAL",
+                        "ciudad": "RANCAGUA",
+                        "codigo": "LI0110"
                     },
                     {
-                        "nombre": "Olivar",
-                        "ciudad": "Rancagua",
-                        "codigo": "li0111"
+                        "nombre": "OLIVAR",
+                        "ciudad": "RANCAGUA",
+                        "codigo": "LI0111"
                     },
                     {
-                        "nombre": "Peumo",
-                        "ciudad": "Rancagua",
-                        "codigo": "li0112"
+                        "nombre": "PEUMO",
+                        "ciudad": "RANCAGUA",
+                        "codigo": "LI0112"
                     },
                     {
-                        "nombre": "Pichidegua",
-                        "ciudad": "Rancagua",
-                        "codigo": "li0113"
+                        "nombre": "PICHIDEGUA",
+                        "ciudad": "RANCAGUA",
+                        "codigo": "LI0113"
                     },
                     {
-                        "nombre": "Quinta de Tilcoco",
-                        "ciudad": "Rancagua",
-                        "codigo": "li0114"
+                        "nombre": "QUINTA DE TILCOCO",
+                        "ciudad": "RANCAGUA",
+                        "codigo": "LI0114"
                     },
                     {
-                        "nombre": "Rengo",
-                        "ciudad": "Rancagua",
-                        "codigo": "li0115"
+                        "nombre": "RENGO",
+                        "ciudad": "RANCAGUA",
+                        "codigo": "LI0115"
                     },
                     {
-                        "nombre": "Requínoa",
-                        "ciudad": "Rancagua",
-                        "codigo": "li0116"
+                        "nombre": "REQUINOA",
+                        "ciudad": "RANCAGUA",
+                        "codigo": "LI0116"
                     },
                     {
-                        "nombre": "San Vicente",
-                        "ciudad": "Rancagua",
-                        "codigo": "li0117"
+                        "nombre": "SAN VICENTE",
+                        "ciudad": "RANCAGUA",
+                        "codigo": "LI0117"
                     }
                 ]
             },
             {
-                "nombre": "Cardenal Caro",
-                "capital": "Pichilemu",
+                "nombre": "CARDENAL CARO",
+                "capital": "PICHILEMU",
                 "comunas": [
                     {
-                        "nombre": "Pichilemu",
-                        "ciudad": "Pichilemu",
-                        "codigo": "li0201"
+                        "nombre": "PICHILEMU",
+                        "ciudad": "PICHILEMU",
+                        "codigo": "LI0201"
                     },
                     {
-                        "nombre": "La Estrella",
-                        "ciudad": "Pichilemu",
-                        "codigo": "li0202"
+                        "nombre": "LA ESTRELLA",
+                        "ciudad": "PICHILEMU",
+                        "codigo": "LI0202"
                     },
                     {
-                        "nombre": "Litueche",
-                        "ciudad": "Pichilemu",
-                        "codigo": "li0203"
+                        "nombre": "LITUECHE",
+                        "ciudad": "PICHILEMU",
+                        "codigo": "LI0203"
                     },
                     {
-                        "nombre": "Marichihue",
-                        "ciudad": "Pichilemu",
-                        "codigo": "li0204"
+                        "nombre": "MARICHIHUE",
+                        "ciudad": "PICHILEMU",
+                        "codigo": "LI0204"
                     },
                     {
-                        "nombre": "Navidad",
-                        "ciudad": "Pichilemu",
-                        "codigo": "li0205"
+                        "nombre": "NAVIDAD",
+                        "ciudad": "PICHILEMU",
+                        "codigo": "LI0205"
                     },
                     {
-                        "nombre": "Paredones",
-                        "ciudad": "Pichilemu",
-                        "codigo": "li0206"
+                        "nombre": "PAREDONES",
+                        "ciudad": "PICHILEMU",
+                        "codigo": "LI0206"
                     }
                 ]
             },
             {
-                "nombre": "Colchagua",
-                "capital": "San Fernando",
+                "nombre": "COLCHAGUA",
+                "capital": "SAN FERNANDO",
                 "comunas": [
                     {
-                        "nombre": "San Fernando",
-                        "ciudad": "San Fernando",
-                        "codigo": "li0301"
+                        "nombre": "SAN FERNANDO",
+                        "ciudad": "SAN FERNANDO",
+                        "codigo": "LI0301"
                     },
                     {
-                        "nombre": "Chépica",
-                        "ciudad": "San Fernando",
-                        "codigo": "li0302"
+                        "nombre": "CHEPICA",
+                        "ciudad": "SAN FERNANDO",
+                        "codigo": "LI0302"
                     },
                     {
-                        "nombre": "Chimbarongo",
-                        "ciudad": "San Fernando",
-                        "codigo": "li0303"
+                        "nombre": "CHIMBARONGO",
+                        "ciudad": "SAN FERNANDO",
+                        "codigo": "LI0303"
                     },
                     {
-                        "nombre": "Lolol",
-                        "ciudad": "San Fernando",
-                        "codigo": "li0304"
+                        "nombre": "LOLOL",
+                        "ciudad": "SAN FERNANDO",
+                        "codigo": "LI0304"
                     },
                     {
-                        "nombre": "Nancagua",
-                        "ciudad": "San Fernando",
-                        "codigo": "li0305"
+                        "nombre": "NANCAGUA",
+                        "ciudad": "SAN FERNANDO",
+                        "codigo": "LI0305"
                     },
                     {
-                        "nombre": "Palmilla",
-                        "ciudad": "San Fernando",
-                        "codigo": "li0306"
+                        "nombre": "PALMILLA",
+                        "ciudad": "SAN FERNANDO",
+                        "codigo": "LI0306"
                     },
                     {
-                        "nombre": "Peralillo",
-                        "ciudad": "San Fernando",
-                        "codigo": "li0307"
+                        "nombre": "PERALILLO",
+                        "ciudad": "SAN FERNANDO",
+                        "codigo": "LI0307"
                     },
                     {
-                        "nombre": "Placilla",
-                        "ciudad": "San Fernando",
-                        "codigo": "li0308"
+                        "nombre": "PLACILLA",
+                        "ciudad": "SAN FERNANDO",
+                        "codigo": "LI0308"
                     },
                     {
-                        "nombre": "Pumanque",
-                        "ciudad": "San Fernando",
-                        "codigo": "li0309"
+                        "nombre": "PUMANQUE",
+                        "ciudad": "SAN FERNANDO",
+                        "codigo": "LI0309"
                     },
                     {
-                        "nombre": "Santa Cruz",
-                        "ciudad": "San Fernando",
-                        "codigo": "li0310"
+                        "nombre": "SANTA CRUZ",
+                        "ciudad": "SAN FERNANDO",
+                        "codigo": "LI0310"
                     }
                 ]
             }
         ]
     },
     {
-        "region": "Región del Maule",
-        "capital_regional": "Talca",
+        "region": "REGION DEL MAULE",
+        "capital_regional": "TALCA",
         "provincias": [
             {
-                "nombre": "Talca",
-                "capital": "Talca",
+                "nombre": "TALCA",
+                "capital": "TALCA",
                 "comunas": [
                     {
-                        "nombre": "Talca",
-                        "ciudad": "Talca",
-                        "codigo": "ml0101"
+                        "nombre": "TALCA",
+                        "ciudad": "TALCA",
+                        "codigo": "ML0101"
                     },
                     {
-                        "nombre": "Constitución",
-                        "ciudad": "Talca",
-                        "codigo": "ml0102"
+                        "nombre": "CONSTITUCION",
+                        "ciudad": "TALCA",
+                        "codigo": "ML0102"
                     },
                     {
-                        "nombre": "Curepto",
-                        "ciudad": "Talca",
-                        "codigo": "ml0103"
+                        "nombre": "CUREPTO",
+                        "ciudad": "TALCA",
+                        "codigo": "ML0103"
                     },
                     {
-                        "nombre": "Empedrado",
-                        "ciudad": "Talca",
-                        "codigo": "ml0104"
+                        "nombre": "EMPEDRADO",
+                        "ciudad": "TALCA",
+                        "codigo": "ML0104"
                     },
                     {
-                        "nombre": "Maule",
-                        "ciudad": "Talca",
-                        "codigo": "ml0105"
+                        "nombre": "MAULE",
+                        "ciudad": "TALCA",
+                        "codigo": "ML0105"
                     },
                     {
-                        "nombre": "Pelarco",
-                        "ciudad": "Talca",
-                        "codigo": "ml0106"
+                        "nombre": "PELARCO",
+                        "ciudad": "TALCA",
+                        "codigo": "ML0106"
                     },
                     {
-                        "nombre": "Pencahue",
-                        "ciudad": "Talca",
-                        "codigo": "ml0107"
+                        "nombre": "PENCAHUE",
+                        "ciudad": "TALCA",
+                        "codigo": "ML0107"
                     },
                     {
-                        "nombre": "Río Claro",
-                        "ciudad": "Talca",
-                        "codigo": "ml0108"
+                        "nombre": "RIO CLARO",
+                        "ciudad": "TALCA",
+                        "codigo": "ML0108"
                     },
                     {
-                        "nombre": "San Clemente",
-                        "ciudad": "Talca",
-                        "codigo": "ml0109"
+                        "nombre": "SAN CLEMENTE",
+                        "ciudad": "TALCA",
+                        "codigo": "ML0109"
                     },
                     {
-                        "nombre": "San Rafael",
-                        "ciudad": "Talca",
-                        "codigo": "ml0110"
+                        "nombre": "SAN RAFAEL",
+                        "ciudad": "TALCA",
+                        "codigo": "ML0110"
                     }
                 ]
             },
             {
-                "nombre": "Cauquenes",
-                "capital": "Cauquenes",
+                "nombre": "CAUQUENES",
+                "capital": "CAUQUENES",
                 "comunas": [
                     {
-                        "nombre": "Cauquenes",
-                        "ciudad": "Cauquenes",
-                        "codigo": "ml0201"
+                        "nombre": "CAUQUENES",
+                        "ciudad": "CAUQUENES",
+                        "codigo": "ML0201"
                     },
                     {
-                        "nombre": "Chanco",
-                        "ciudad": "Cauquenes",
-                        "codigo": "ml0202"
+                        "nombre": "CHANCO",
+                        "ciudad": "CAUQUENES",
+                        "codigo": "ML0202"
                     },
                     {
-                        "nombre": "Pelluhue",
-                        "ciudad": "Cauquenes",
-                        "codigo": "ml0203"
+                        "nombre": "PELLUHUE",
+                        "ciudad": "CAUQUENES",
+                        "codigo": "ML0203"
                     }
                 ]
             },
             {
-                "nombre": "Curicó",
-                "capital": "Curicó",
+                "nombre": "CURICO",
+                "capital": "CURICO",
                 "comunas": [
                     {
-                        "nombre": "Curicó",
-                        "ciudad": "Curicó",
-                        "codigo": "ml0301"
+                        "nombre": "CURICO",
+                        "ciudad": "CURICO",
+                        "codigo": "ML0301"
                     },
                     {
-                        "nombre": "Hualañé",
-                        "ciudad": "Curicó",
-                        "codigo": "ml0302"
+                        "nombre": "HUALANE",
+                        "ciudad": "CURICO",
+                        "codigo": "ML0302"
                     },
                     {
-                        "nombre": "Licantén",
-                        "ciudad": "Curicó",
-                        "codigo": "ml0303"
+                        "nombre": "LICANTEN",
+                        "ciudad": "CURICO",
+                        "codigo": "ML0303"
                     },
                     {
-                        "nombre": "Molina",
-                        "ciudad": "Curicó",
-                        "codigo": "ml0304"
+                        "nombre": "MOLINA",
+                        "ciudad": "CURICO",
+                        "codigo": "ML0304"
                     },
                     {
-                        "nombre": "Rauco",
-                        "ciudad": "Curicó",
-                        "codigo": "ml0305"
+                        "nombre": "RAUCO",
+                        "ciudad": "CURICO",
+                        "codigo": "ML0305"
                     },
                     {
-                        "nombre": "Romeral",
-                        "ciudad": "Curicó",
-                        "codigo": "ml0306"
+                        "nombre": "ROMERAL",
+                        "ciudad": "CURICO",
+                        "codigo": "ML0306"
                     },
                     {
-                        "nombre": "Sagrada Familia",
-                        "ciudad": "Curicó",
-                        "codigo": "ml0307"
+                        "nombre": "SAGRADA FAMILIA",
+                        "ciudad": "CURICO",
+                        "codigo": "ML0307"
                     },
                     {
-                        "nombre": "Teno",
-                        "ciudad": "Curicó",
-                        "codigo": "ml0308"
+                        "nombre": "TENO",
+                        "ciudad": "CURICO",
+                        "codigo": "ML0308"
                     },
                     {
-                        "nombre": "Vichuquén",
-                        "ciudad": "Curicó",
-                        "codigo": "ml0309"
+                        "nombre": "VICHUQUEN",
+                        "ciudad": "CURICO",
+                        "codigo": "ML0309"
                     }
                 ]
             },
             {
-                "nombre": "Linares",
-                "capital": "Linares",
+                "nombre": "LINARES",
+                "capital": "LINARES",
                 "comunas": [
                     {
-                        "nombre": "Linares",
-                        "ciudad": "Linares",
-                        "codigo": "ml0401"
+                        "nombre": "LINARES",
+                        "ciudad": "LINARES",
+                        "codigo": "ML0401"
                     },
                     {
-                        "nombre": "Colbún",
-                        "ciudad": "Linares",
-                        "codigo": "ml0402"
+                        "nombre": "COLBUN",
+                        "ciudad": "LINARES",
+                        "codigo": "ML0402"
                     },
                     {
-                        "nombre": "Longaví",
-                        "ciudad": "Linares",
-                        "codigo": "ml0403"
+                        "nombre": "LONGAVI",
+                        "ciudad": "LINARES",
+                        "codigo": "ML0403"
                     },
                     {
-                        "nombre": "Parral",
-                        "ciudad": "Linares",
-                        "codigo": "ml0404"
+                        "nombre": "PARRAL",
+                        "ciudad": "LINARES",
+                        "codigo": "ML0404"
                     },
                     {
-                        "nombre": "Retiro",
-                        "ciudad": "Linares",
-                        "codigo": "ml0405"
+                        "nombre": "RETIRO",
+                        "ciudad": "LINARES",
+                        "codigo": "ML0405"
                     },
                     {
-                        "nombre": "San Javier",
-                        "ciudad": "Linares",
-                        "codigo": "ml0406"
+                        "nombre": "SAN JAVIER",
+                        "ciudad": "LINARES",
+                        "codigo": "ML0406"
                     },
                     {
-                        "nombre": "Villa Alegre",
-                        "ciudad": "Linares",
-                        "codigo": "ml0407"
+                        "nombre": "VILLA ALEGRE",
+                        "ciudad": "LINARES",
+                        "codigo": "ML0407"
                     },
                     {
-                        "nombre": "Yerbas Buenas",
-                        "ciudad": "Linares",
-                        "codigo": "ml0408"
+                        "nombre": "YERBAS BUENAS",
+                        "ciudad": "LINARES",
+                        "codigo": "ML0408"
                     }
                 ]
             }
         ]
     },
     {
-        "region": "Región del Biobío",
-        "capital_regional": "Concepción",
+        "region": "REGION DEL BIOBIO",
+        "capital_regional": "CONCEPCION",
         "provincias": [
             {
-                "nombre": "Concepción",
-                "capital": "Concepción",
+                "nombre": "CONCEPCION",
+                "capital": "CONCEPCION",
                 "comunas": [
                     {
-                        "nombre": "Concepción",
-                        "ciudad": "Concepción",
-                        "codigo": "bi0101"
+                        "nombre": "CONCEPCION",
+                        "ciudad": "CONCEPCION",
+                        "codigo": "BI0101"
                     },
                     {
-                        "nombre": "Coronel",
-                        "ciudad": "Concepción",
-                        "codigo": "bi0102"
+                        "nombre": "CORONEL",
+                        "ciudad": "CONCEPCION",
+                        "codigo": "BI0102"
                     },
                     {
-                        "nombre": "Chiguayante",
-                        "ciudad": "Concepción",
-                        "codigo": "bi0103"
+                        "nombre": "CHIGUAYANTE",
+                        "ciudad": "CONCEPCION",
+                        "codigo": "BI0103"
                     },
                     {
-                        "nombre": "Florida",
-                        "ciudad": "Concepción",
-                        "codigo": "bi0104"
+                        "nombre": "FLORIDA",
+                        "ciudad": "CONCEPCION",
+                        "codigo": "BI0104"
                     },
                     {
-                        "nombre": "Hualqui",
-                        "ciudad": "Concepción",
-                        "codigo": "bi0105"
+                        "nombre": "HUALQUI",
+                        "ciudad": "CONCEPCION",
+                        "codigo": "BI0105"
                     },
                     {
-                        "nombre": "Lota",
-                        "ciudad": "Concepción",
-                        "codigo": "bi0106"
+                        "nombre": "LOTA",
+                        "ciudad": "CONCEPCION",
+                        "codigo": "BI0106"
                     },
                     {
-                        "nombre": "Penco",
-                        "ciudad": "Concepción",
-                        "codigo": "bi0107"
+                        "nombre": "PENCO",
+                        "ciudad": "CONCEPCION",
+                        "codigo": "BI0107"
                     },
                     {
-                        "nombre": "San Pedro de la Paz",
-                        "ciudad": "Concepción",
-                        "codigo": "bi0108"
+                        "nombre": "SAN PEDRO DE LA PAZ",
+                        "ciudad": "CONCEPCION",
+                        "codigo": "BI0108"
                     },
                     {
-                        "nombre": "Santa Juana",
-                        "ciudad": "Concepción",
-                        "codigo": "bi0109"
+                        "nombre": "SANTA JUANA",
+                        "ciudad": "CONCEPCION",
+                        "codigo": "BI0109"
                     },
                     {
-                        "nombre": "Talcahuano",
-                        "ciudad": "Concepción",
-                        "codigo": "bi0110"
+                        "nombre": "TALCAHUANO",
+                        "ciudad": "CONCEPCION",
+                        "codigo": "BI0110"
                     },
                     {
-                        "nombre": "Tomé",
-                        "ciudad": "Concepción",
-                        "codigo": "bi0111"
+                        "nombre": "TOME",
+                        "ciudad": "CONCEPCION",
+                        "codigo": "BI0111"
                     },
                     {
-                        "nombre": "Hualpén",
-                        "ciudad": "Concepción",
-                        "codigo": "bi0112"
+                        "nombre": "HUALPEN",
+                        "ciudad": "CONCEPCION",
+                        "codigo": "BI0112"
                     }
                 ]
             },
             {
-                "nombre": "Arauco",
-                "capital": "Lebu",
+                "nombre": "ARAUCO",
+                "capital": "LEBU",
                 "comunas": [
                     {
-                        "nombre": "Lebu",
-                        "ciudad": "Lebu",
-                        "codigo": "bi0201"
+                        "nombre": "LEBU",
+                        "ciudad": "LEBU",
+                        "codigo": "BI0201"
                     },
                     {
-                        "nombre": "Arauco",
-                        "ciudad": "Lebu",
-                        "codigo": "bi0202"
+                        "nombre": "ARAUCO",
+                        "ciudad": "LEBU",
+                        "codigo": "BI0202"
                     },
                     {
-                        "nombre": "Cañete",
-                        "ciudad": "Lebu",
-                        "codigo": "bi0203"
+                        "nombre": "CANETE",
+                        "ciudad": "LEBU",
+                        "codigo": "BI0203"
                     },
                     {
-                        "nombre": "Contulmo",
-                        "ciudad": "Lebu",
-                        "codigo": "bi0204"
+                        "nombre": "CONTULMO",
+                        "ciudad": "LEBU",
+                        "codigo": "BI0204"
                     },
                     {
-                        "nombre": "Curanilahue",
-                        "ciudad": "Lebu",
-                        "codigo": "bi0205"
+                        "nombre": "CURANILAHUE",
+                        "ciudad": "LEBU",
+                        "codigo": "BI0205"
                     },
                     {
-                        "nombre": "Los Álamos",
-                        "ciudad": "Lebu",
-                        "codigo": "bi0206"
+                        "nombre": "LOS ALAMOS",
+                        "ciudad": "LEBU",
+                        "codigo": "BI0206"
                     },
                     {
-                        "nombre": "Tirúa",
-                        "ciudad": "Lebu",
-                        "codigo": "bi0207"
+                        "nombre": "TIRUA",
+                        "ciudad": "LEBU",
+                        "codigo": "BI0207"
                     }
                 ]
             },
             {
-                "nombre": "Biobío",
-                "capital": "Los Ángeles",
+                "nombre": "BIOBIO",
+                "capital": "LOS ANGELES",
                 "comunas": [
                     {
-                        "nombre": "Los Ángeles",
-                        "ciudad": "Los Ángeles",
-                        "codigo": "bi0301"
+                        "nombre": "LOS ANGELES",
+                        "ciudad": "LOS ANGELES",
+                        "codigo": "BI0301"
                     },
                     {
-                        "nombre": "Antuco",
-                        "ciudad": "Los Ángeles",
-                        "codigo": "bi0302"
+                        "nombre": "ANTUCO",
+                        "ciudad": "LOS ANGELES",
+                        "codigo": "BI0302"
                     },
                     {
-                        "nombre": "Cabrero",
-                        "ciudad": "Los Ángeles",
-                        "codigo": "bi0303"
+                        "nombre": "CABRERO",
+                        "ciudad": "LOS ANGELES",
+                        "codigo": "BI0303"
                     },
                     {
-                        "nombre": "Laja",
-                        "ciudad": "Los Ángeles",
-                        "codigo": "bi0304"
+                        "nombre": "LAJA",
+                        "ciudad": "LOS ANGELES",
+                        "codigo": "BI0304"
                     },
                     {
-                        "nombre": "Mulchén",
-                        "ciudad": "Los Ángeles",
-                        "codigo": "bi0305"
+                        "nombre": "MULCHEN",
+                        "ciudad": "LOS ANGELES",
+                        "codigo": "BI0305"
                     },
                     {
-                        "nombre": "Nacimiento",
-                        "ciudad": "Los Ángeles",
-                        "codigo": "bi0306"
+                        "nombre": "NACIMIENTO",
+                        "ciudad": "LOS ANGELES",
+                        "codigo": "BI0306"
                     },
                     {
-                        "nombre": "Negrete",
-                        "ciudad": "Los Ángeles",
-                        "codigo": "bi0307"
+                        "nombre": "NEGRETE",
+                        "ciudad": "LOS ANGELES",
+                        "codigo": "BI0307"
                     },
                     {
-                        "nombre": "Quilaco",
-                        "ciudad": "Los Ángeles",
-                        "codigo": "bi0308"
+                        "nombre": "QUILACO",
+                        "ciudad": "LOS ANGELES",
+                        "codigo": "BI0308"
                     },
                     {
-                        "nombre": "Quilleco",
-                        "ciudad": "Los Ángeles",
-                        "codigo": "bi0309"
+                        "nombre": "QUILLECO",
+                        "ciudad": "LOS ANGELES",
+                        "codigo": "BI0309"
                     },
                     {
-                        "nombre": "San Rosendo",
-                        "ciudad": "Los Ángeles",
-                        "codigo": "bi0310"
+                        "nombre": "SAN ROSENDO",
+                        "ciudad": "LOS ANGELES",
+                        "codigo": "BI0310"
                     },
                     {
-                        "nombre": "Santa Bárbara",
-                        "ciudad": "Los Ángeles",
-                        "codigo": "bi0311"
+                        "nombre": "SANTA BARBARA",
+                        "ciudad": "LOS ANGELES",
+                        "codigo": "BI0311"
                     },
                     {
-                        "nombre": "Tucapel",
-                        "ciudad": "Los Ángeles",
-                        "codigo": "bi0312"
+                        "nombre": "TUCAPEL",
+                        "ciudad": "LOS ANGELES",
+                        "codigo": "BI0312"
                     },
                     {
-                        "nombre": "Yumbel",
-                        "ciudad": "Los Ángeles",
-                        "codigo": "bi0313"
+                        "nombre": "YUMBEL",
+                        "ciudad": "LOS ANGELES",
+                        "codigo": "BI0313"
                     },
                     {
-                        "nombre": "Alto Biobío",
-                        "ciudad": "Los Ángeles",
-                        "codigo": "bi0314"
+                        "nombre": "ALTO BIOBIO",
+                        "ciudad": "LOS ANGELES",
+                        "codigo": "BI0314"
                     }
                 ]
             }
         ]
     },
     {
-        "region": "Región de Ñuble",
-        "capital_regional": "Chillán",
+        "region": "REGION DE NUBLE",
+        "capital_regional": "CHILLAN",
         "provincias": [
             {
-                "nombre": "Diguillín",
-                "capital": "Bulnes",
+                "nombre": "DIGUILLIN",
+                "capital": "BULNES",
                 "comunas": [
                     {
-                        "nombre": "Bulnes",
-                        "ciudad": "Bulnes",
-                        "codigo": "nb0101"
+                        "nombre": "BULNES",
+                        "ciudad": "BULNES",
+                        "codigo": "NB0101"
                     },
                     {
-                        "nombre": "Chillán",
-                        "ciudad": "Bulnes",
-                        "codigo": "nb0102"
+                        "nombre": "CHILLAN",
+                        "ciudad": "BULNES",
+                        "codigo": "NB0102"
                     },
                     {
-                        "nombre": "Chillán Viejo",
-                        "ciudad": "Bulnes",
-                        "codigo": "nb0103"
+                        "nombre": "CHILLAN VIEJO",
+                        "ciudad": "BULNES",
+                        "codigo": "NB0103"
                     },
                     {
-                        "nombre": "El Carmen",
-                        "ciudad": "Bulnes",
-                        "codigo": "nb0104"
+                        "nombre": "EL CARMEN",
+                        "ciudad": "BULNES",
+                        "codigo": "NB0104"
                     },
                     {
-                        "nombre": "Pemuco",
-                        "ciudad": "Bulnes",
-                        "codigo": "nb0105"
+                        "nombre": "PEMUCO",
+                        "ciudad": "BULNES",
+                        "codigo": "NB0105"
                     },
                     {
-                        "nombre": "Pinto",
-                        "ciudad": "Bulnes",
-                        "codigo": "nb0106"
+                        "nombre": "PINTO",
+                        "ciudad": "BULNES",
+                        "codigo": "NB0106"
                     },
                     {
-                        "nombre": "Quillón",
-                        "ciudad": "Bulnes",
-                        "codigo": "nb0107"
+                        "nombre": "QUILLON",
+                        "ciudad": "BULNES",
+                        "codigo": "NB0107"
                     },
                     {
-                        "nombre": "San Ignacio",
-                        "ciudad": "Bulnes",
-                        "codigo": "nb0108"
+                        "nombre": "SAN IGNACIO",
+                        "ciudad": "BULNES",
+                        "codigo": "NB0108"
                     },
                     {
-                        "nombre": "Yungay",
-                        "ciudad": "Bulnes",
-                        "codigo": "nb0109"
+                        "nombre": "YUNGAY",
+                        "ciudad": "BULNES",
+                        "codigo": "NB0109"
                     }
                 ]
             },
             {
-                "nombre": "Itata",
-                "capital": "Quirihue",
+                "nombre": "ITATA",
+                "capital": "QUIRIHUE",
                 "comunas": [
                     {
-                        "nombre": "Cobquecura",
-                        "ciudad": "Quirihue",
-                        "codigo": "nb0201"
+                        "nombre": "COBQUECURA",
+                        "ciudad": "QUIRIHUE",
+                        "codigo": "NB0201"
                     },
                     {
-                        "nombre": "Coelemu",
-                        "ciudad": "Quirihue",
-                        "codigo": "nb0202"
+                        "nombre": "COELEMU",
+                        "ciudad": "QUIRIHUE",
+                        "codigo": "NB0202"
                     },
                     {
-                        "nombre": "Ninhue",
-                        "ciudad": "Quirihue",
-                        "codigo": "nb0203"
+                        "nombre": "NINHUE",
+                        "ciudad": "QUIRIHUE",
+                        "codigo": "NB0203"
                     },
                     {
-                        "nombre": "Portezuelo",
-                        "ciudad": "Quirihue",
-                        "codigo": "nb0204"
+                        "nombre": "PORTEZUELO",
+                        "ciudad": "QUIRIHUE",
+                        "codigo": "NB0204"
                     },
                     {
-                        "nombre": "Quirihue",
-                        "ciudad": "Quirihue",
-                        "codigo": "nb0205"
+                        "nombre": "QUIRIHUE",
+                        "ciudad": "QUIRIHUE",
+                        "codigo": "NB0205"
                     },
                     {
-                        "nombre": "Ránquil",
-                        "ciudad": "Quirihue",
-                        "codigo": "nb0206"
+                        "nombre": "RANQUIL",
+                        "ciudad": "QUIRIHUE",
+                        "codigo": "NB0206"
                     },
                     {
-                        "nombre": "Treguaco",
-                        "ciudad": "Quirihue",
-                        "codigo": "nb0207"
+                        "nombre": "TREGUACO",
+                        "ciudad": "QUIRIHUE",
+                        "codigo": "NB0207"
                     }
                 ]
             },
             {
-                "nombre": "Punilla",
-                "capital": "San Carlos",
+                "nombre": "PUNILLA",
+                "capital": "SAN CARLOS",
                 "comunas": [
                     {
-                        "nombre": "Coihueco",
-                        "ciudad": "San Carlos",
-                        "codigo": "nb0301"
+                        "nombre": "COIHUECO",
+                        "ciudad": "SAN CARLOS",
+                        "codigo": "NB0301"
                     },
                     {
-                        "nombre": "Ñiquén",
-                        "ciudad": "San Carlos",
-                        "codigo": "nb0302"
+                        "nombre": "NIQUEN",
+                        "ciudad": "SAN CARLOS",
+                        "codigo": "NB0302"
                     },
                     {
-                        "nombre": "San Carlos",
-                        "ciudad": "San Carlos",
-                        "codigo": "nb0303"
+                        "nombre": "SAN CARLOS",
+                        "ciudad": "SAN CARLOS",
+                        "codigo": "NB0303"
                     },
                     {
-                        "nombre": "San Fabián",
-                        "ciudad": "San Carlos",
-                        "codigo": "nb0304"
+                        "nombre": "SAN FABIAN",
+                        "ciudad": "SAN CARLOS",
+                        "codigo": "NB0304"
                     },
                     {
-                        "nombre": "San Nicolas",
-                        "ciudad": "San Carlos",
-                        "codigo": "nb0305"
+                        "nombre": "SAN NICOLAS",
+                        "ciudad": "SAN CARLOS",
+                        "codigo": "NB0305"
                     }
                 ]
             }
         ]
     },
     {
-        "region": "Región de La Araucanía",
-        "capital_regional": "Temuco",
+        "region": "REGION DE LA ARAUCANIA",
+        "capital_regional": "TEMUCO",
         "provincias": [
             {
-                "nombre": "Cautín",
-                "capital": "Temuco",
+                "nombre": "CAUTIN",
+                "capital": "TEMUCO",
                 "comunas": [
                     {
-                        "nombre": "Temuco",
-                        "ciudad": "Temuco",
-                        "codigo": "ar0101"
+                        "nombre": "TEMUCO",
+                        "ciudad": "TEMUCO",
+                        "codigo": "AR0101"
                     },
                     {
-                        "nombre": "Carahue",
-                        "ciudad": "Temuco",
-                        "codigo": "ar0102"
+                        "nombre": "CARAHUE",
+                        "ciudad": "TEMUCO",
+                        "codigo": "AR0102"
                     },
                     {
-                        "nombre": "Cunco",
-                        "ciudad": "Temuco",
-                        "codigo": "ar0103"
+                        "nombre": "CUNCO",
+                        "ciudad": "TEMUCO",
+                        "codigo": "AR0103"
                     },
                     {
-                        "nombre": "Curarrehue",
-                        "ciudad": "Temuco",
-                        "codigo": "ar0104"
+                        "nombre": "CURARREHUE",
+                        "ciudad": "TEMUCO",
+                        "codigo": "AR0104"
                     },
                     {
-                        "nombre": "Freire",
-                        "ciudad": "Temuco",
-                        "codigo": "ar0105"
+                        "nombre": "FREIRE",
+                        "ciudad": "TEMUCO",
+                        "codigo": "AR0105"
                     },
                     {
-                        "nombre": "Galvarino",
-                        "ciudad": "Temuco",
-                        "codigo": "ar0106"
+                        "nombre": "GALVARINO",
+                        "ciudad": "TEMUCO",
+                        "codigo": "AR0106"
                     },
                     {
-                        "nombre": "Gorbea",
-                        "ciudad": "Temuco",
-                        "codigo": "ar0107"
+                        "nombre": "GORBEA",
+                        "ciudad": "TEMUCO",
+                        "codigo": "AR0107"
                     },
                     {
-                        "nombre": "Lautaro",
-                        "ciudad": "Temuco",
-                        "codigo": "ar0108"
+                        "nombre": "LAUTARO",
+                        "ciudad": "TEMUCO",
+                        "codigo": "AR0108"
                     },
                     {
-                        "nombre": "Loncoche",
-                        "ciudad": "Temuco",
-                        "codigo": "ar0109"
+                        "nombre": "LONCOCHE",
+                        "ciudad": "TEMUCO",
+                        "codigo": "AR0109"
                     },
                     {
-                        "nombre": "Melipeuco",
-                        "ciudad": "Temuco",
-                        "codigo": "ar0110"
+                        "nombre": "MELIPEUCO",
+                        "ciudad": "TEMUCO",
+                        "codigo": "AR0110"
                     },
                     {
-                        "nombre": "Nueva Imperial",
-                        "ciudad": "Temuco",
-                        "codigo": "ar0111"
+                        "nombre": "NUEVA IMPERIAL",
+                        "ciudad": "TEMUCO",
+                        "codigo": "AR0111"
                     },
                     {
-                        "nombre": "Padre Las Casas",
-                        "ciudad": "Temuco",
-                        "codigo": "ar0112"
+                        "nombre": "PADRE LAS CASAS",
+                        "ciudad": "TEMUCO",
+                        "codigo": "AR0112"
                     },
                     {
-                        "nombre": "Perquenco",
-                        "ciudad": "Temuco",
-                        "codigo": "ar0113"
+                        "nombre": "PERQUENCO",
+                        "ciudad": "TEMUCO",
+                        "codigo": "AR0113"
                     },
                     {
-                        "nombre": "Pitrufquén",
-                        "ciudad": "Temuco",
-                        "codigo": "ar0114"
+                        "nombre": "PITRUFQUEN",
+                        "ciudad": "TEMUCO",
+                        "codigo": "AR0114"
                     },
                     {
-                        "nombre": "Pucón",
-                        "ciudad": "Temuco",
-                        "codigo": "ar0115"
+                        "nombre": "PUCON",
+                        "ciudad": "TEMUCO",
+                        "codigo": "AR0115"
                     },
                     {
-                        "nombre": "Saavedra",
-                        "ciudad": "Temuco",
-                        "codigo": "ar0116"
+                        "nombre": "SAAVEDRA",
+                        "ciudad": "TEMUCO",
+                        "codigo": "AR0116"
                     },
                     {
-                        "nombre": "Teodoro Schmidt",
-                        "ciudad": "Temuco",
-                        "codigo": "ar0117"
+                        "nombre": "TEODORO SCHMIDT",
+                        "ciudad": "TEMUCO",
+                        "codigo": "AR0117"
                     },
                     {
-                        "nombre": "Toltén",
-                        "ciudad": "Temuco",
-                        "codigo": "ar0118"
+                        "nombre": "TOLTEN",
+                        "ciudad": "TEMUCO",
+                        "codigo": "AR0118"
                     },
                     {
-                        "nombre": "Vilcún",
-                        "ciudad": "Temuco",
-                        "codigo": "ar0119"
+                        "nombre": "VILCUN",
+                        "ciudad": "TEMUCO",
+                        "codigo": "AR0119"
                     },
                     {
-                        "nombre": "Villarrica",
-                        "ciudad": "Temuco",
-                        "codigo": "ar0120"
+                        "nombre": "VILLARRICA",
+                        "ciudad": "TEMUCO",
+                        "codigo": "AR0120"
                     },
                     {
-                        "nombre": "Cholchol",
-                        "ciudad": "Temuco",
-                        "codigo": "ar0121"
+                        "nombre": "CHOLCHOL",
+                        "ciudad": "TEMUCO",
+                        "codigo": "AR0121"
                     }
                 ]
             },
             {
-                "nombre": "Malleco",
-                "capital": "Angol",
+                "nombre": "MALLECO",
+                "capital": "ANGOL",
                 "comunas": [
                     {
-                        "nombre": "Angol",
-                        "ciudad": "Angol",
-                        "codigo": "ar0201"
+                        "nombre": "ANGOL",
+                        "ciudad": "ANGOL",
+                        "codigo": "AR0201"
                     },
                     {
-                        "nombre": "Collipulli",
-                        "ciudad": "Angol",
-                        "codigo": "ar0202"
+                        "nombre": "COLLIPULLI",
+                        "ciudad": "ANGOL",
+                        "codigo": "AR0202"
                     },
                     {
-                        "nombre": "Curacautín",
-                        "ciudad": "Angol",
-                        "codigo": "ar0203"
+                        "nombre": "CURACAUTIN",
+                        "ciudad": "ANGOL",
+                        "codigo": "AR0203"
                     },
                     {
-                        "nombre": "Ercilla",
-                        "ciudad": "Angol",
-                        "codigo": "ar0204"
+                        "nombre": "ERCILLA",
+                        "ciudad": "ANGOL",
+                        "codigo": "AR0204"
                     },
                     {
-                        "nombre": "Lonquimay",
-                        "ciudad": "Angol",
-                        "codigo": "ar0205"
+                        "nombre": "LONQUIMAY",
+                        "ciudad": "ANGOL",
+                        "codigo": "AR0205"
                     },
                     {
-                        "nombre": "Los Sauces",
-                        "ciudad": "Angol",
-                        "codigo": "ar0206"
+                        "nombre": "LOS SAUCES",
+                        "ciudad": "ANGOL",
+                        "codigo": "AR0206"
                     },
                     {
-                        "nombre": "Lumaco",
-                        "ciudad": "Angol",
-                        "codigo": "ar0207"
+                        "nombre": "LUMACO",
+                        "ciudad": "ANGOL",
+                        "codigo": "AR0207"
                     },
                     {
-                        "nombre": "Purén",
-                        "ciudad": "Angol",
-                        "codigo": "ar0208"
+                        "nombre": "PUREN",
+                        "ciudad": "ANGOL",
+                        "codigo": "AR0208"
                     },
                     {
-                        "nombre": "Renaico",
-                        "ciudad": "Angol",
-                        "codigo": "ar0209"
+                        "nombre": "RENAICO",
+                        "ciudad": "ANGOL",
+                        "codigo": "AR0209"
                     },
                     {
-                        "nombre": "Traiguén",
-                        "ciudad": "Angol",
-                        "codigo": "ar0210"
+                        "nombre": "TRAIGUEN",
+                        "ciudad": "ANGOL",
+                        "codigo": "AR0210"
                     },
                     {
-                        "nombre": "Victoria",
-                        "ciudad": "Angol",
-                        "codigo": "ar0211"
+                        "nombre": "VICTORIA",
+                        "ciudad": "ANGOL",
+                        "codigo": "AR0211"
                     }
                 ]
             }
         ]
     },
     {
-        "region": "Región de Los Ríos",
-        "capital_regional": "Valdivia",
+        "region": "REGION DE LOS RIOS",
+        "capital_regional": "VALDIVIA",
         "provincias": [
             {
-                "nombre": "Valdivia",
-                "capital": "Valdivia",
+                "nombre": "VALDIVIA",
+                "capital": "VALDIVIA",
                 "comunas": [
                     {
-                        "nombre": "Valdivia",
-                        "ciudad": "Valdivia",
-                        "codigo": "lr0101"
+                        "nombre": "VALDIVIA",
+                        "ciudad": "VALDIVIA",
+                        "codigo": "LR0101"
                     },
                     {
-                        "nombre": "Corral",
-                        "ciudad": "Valdivia",
-                        "codigo": "lr0102"
+                        "nombre": "CORRAL",
+                        "ciudad": "VALDIVIA",
+                        "codigo": "LR0102"
                     },
                     {
-                        "nombre": "Lanco",
-                        "ciudad": "Valdivia",
-                        "codigo": "lr0103"
+                        "nombre": "LANCO",
+                        "ciudad": "VALDIVIA",
+                        "codigo": "LR0103"
                     },
                     {
-                        "nombre": "Los Lagos",
-                        "ciudad": "Valdivia",
-                        "codigo": "lr0104"
+                        "nombre": "LOS LAGOS",
+                        "ciudad": "VALDIVIA",
+                        "codigo": "LR0104"
                     },
                     {
-                        "nombre": "Máfil",
-                        "ciudad": "Valdivia",
-                        "codigo": "lr0105"
+                        "nombre": "MAFIL",
+                        "ciudad": "VALDIVIA",
+                        "codigo": "LR0105"
                     },
                     {
-                        "nombre": "Mariquina",
-                        "ciudad": "Valdivia",
-                        "codigo": "lr0106"
+                        "nombre": "MARIQUINA",
+                        "ciudad": "VALDIVIA",
+                        "codigo": "LR0106"
                     },
                     {
-                        "nombre": "Paillaco",
-                        "ciudad": "Valdivia",
-                        "codigo": "lr0107"
+                        "nombre": "PAILLACO",
+                        "ciudad": "VALDIVIA",
+                        "codigo": "LR0107"
                     },
                     {
-                        "nombre": "Panguipulli",
-                        "ciudad": "Valdivia",
-                        "codigo": "lr0108"
+                        "nombre": "PANGUIPULLI",
+                        "ciudad": "VALDIVIA",
+                        "codigo": "LR0108"
                     }
                 ]
             },
             {
-                "nombre": "Ranco",
-                "capital": "La Unión",
+                "nombre": "RANCO",
+                "capital": "LA UNION",
                 "comunas": [
                     {
-                        "nombre": "La Unión",
-                        "ciudad": "La Unión",
-                        "codigo": "lr0201"
+                        "nombre": "LA UNION",
+                        "ciudad": "LA UNION",
+                        "codigo": "LR0201"
                     },
                     {
-                        "nombre": "Futrono",
-                        "ciudad": "La Unión",
-                        "codigo": "lr0202"
+                        "nombre": "FUTRONO",
+                        "ciudad": "LA UNION",
+                        "codigo": "LR0202"
                     },
                     {
-                        "nombre": "Lago Ranco",
-                        "ciudad": "La Unión",
-                        "codigo": "lr0203"
+                        "nombre": "LAGO RANCO",
+                        "ciudad": "LA UNION",
+                        "codigo": "LR0203"
                     },
                     {
-                        "nombre": "Río Bueno",
-                        "ciudad": "La Unión",
-                        "codigo": "lr0204"
+                        "nombre": "RIO BUENO",
+                        "ciudad": "LA UNION",
+                        "codigo": "LR0204"
                     }
                 ]
             }
         ]
     },
     {
-        "region": "Región de Los Lagos",
-        "capital_regional": "Puerto Montt",
+        "region": "REGION DE LOS LAGOS",
+        "capital_regional": "PUERTO MONTT",
         "provincias": [
             {
-                "nombre": "Llanquihue",
-                "capital": "Puerto Montt",
+                "nombre": "LLANQUIHUE",
+                "capital": "PUERTO MONTT",
                 "comunas": [
                     {
-                        "nombre": "Puerto Montt",
-                        "ciudad": "Puerto Montt",
-                        "codigo": "ll0101"
+                        "nombre": "PUERTO MONTT",
+                        "ciudad": "PUERTO MONTT",
+                        "codigo": "LL0101"
                     },
                     {
-                        "nombre": "Calbuco",
-                        "ciudad": "Puerto Montt",
-                        "codigo": "ll0102"
+                        "nombre": "CALBUCO",
+                        "ciudad": "PUERTO MONTT",
+                        "codigo": "LL0102"
                     },
                     {
-                        "nombre": "Cochamó",
-                        "ciudad": "Puerto Montt",
-                        "codigo": "ll0103"
+                        "nombre": "COCHAMO",
+                        "ciudad": "PUERTO MONTT",
+                        "codigo": "LL0103"
                     },
                     {
-                        "nombre": "Fresia",
-                        "ciudad": "Puerto Montt",
-                        "codigo": "ll0104"
+                        "nombre": "FRESIA",
+                        "ciudad": "PUERTO MONTT",
+                        "codigo": "LL0104"
                     },
                     {
-                        "nombre": "Frutillar",
-                        "ciudad": "Puerto Montt",
-                        "codigo": "ll0105"
+                        "nombre": "FRUTILLAR",
+                        "ciudad": "PUERTO MONTT",
+                        "codigo": "LL0105"
                     },
                     {
-                        "nombre": "Los Muermos",
-                        "ciudad": "Puerto Montt",
-                        "codigo": "ll0106"
+                        "nombre": "LOS MUERMOS",
+                        "ciudad": "PUERTO MONTT",
+                        "codigo": "LL0106"
                     },
                     {
-                        "nombre": "Llanquihue",
-                        "ciudad": "Puerto Montt",
-                        "codigo": "ll0107"
+                        "nombre": "LLANQUIHUE",
+                        "ciudad": "PUERTO MONTT",
+                        "codigo": "LL0107"
                     },
                     {
-                        "nombre": "Maullín",
-                        "ciudad": "Puerto Montt",
-                        "codigo": "ll0108"
+                        "nombre": "MAULLIN",
+                        "ciudad": "PUERTO MONTT",
+                        "codigo": "LL0108"
                     },
                     {
-                        "nombre": "Puerto Varas",
-                        "ciudad": "Puerto Montt",
-                        "codigo": "ll0109"
+                        "nombre": "PUERTO VARAS",
+                        "ciudad": "PUERTO MONTT",
+                        "codigo": "LL0109"
                     }
                 ]
             },
             {
-                "nombre": "Chiloé",
-                "capital": "Castro",
+                "nombre": "CHILOE",
+                "capital": "CASTRO",
                 "comunas": [
                     {
-                        "nombre": "Castro",
-                        "ciudad": "Castro",
-                        "codigo": "ll0201"
+                        "nombre": "CASTRO",
+                        "ciudad": "CASTRO",
+                        "codigo": "LL0201"
                     },
                     {
-                        "nombre": "Ancud",
-                        "ciudad": "Castro",
-                        "codigo": "ll0202"
+                        "nombre": "ANCUD",
+                        "ciudad": "CASTRO",
+                        "codigo": "LL0202"
                     },
                     {
-                        "nombre": "Chonchi",
-                        "ciudad": "Castro",
-                        "codigo": "ll0203"
+                        "nombre": "CHONCHI",
+                        "ciudad": "CASTRO",
+                        "codigo": "LL0203"
                     },
                     {
-                        "nombre": "Curaco de Vélez",
-                        "ciudad": "Castro",
-                        "codigo": "ll0204"
+                        "nombre": "CURACO DE VELEZ",
+                        "ciudad": "CASTRO",
+                        "codigo": "LL0204"
                     },
                     {
-                        "nombre": "Dalcahue",
-                        "ciudad": "Castro",
-                        "codigo": "ll0205"
+                        "nombre": "DALCAHUE",
+                        "ciudad": "CASTRO",
+                        "codigo": "LL0205"
                     },
                     {
-                        "nombre": "Puqueldón",
-                        "ciudad": "Castro",
-                        "codigo": "ll0206"
+                        "nombre": "PUQUELDON",
+                        "ciudad": "CASTRO",
+                        "codigo": "LL0206"
                     },
                     {
-                        "nombre": "Queilén",
-                        "ciudad": "Castro",
-                        "codigo": "ll0207"
+                        "nombre": "QUEILEN",
+                        "ciudad": "CASTRO",
+                        "codigo": "LL0207"
                     },
                     {
-                        "nombre": "Quellón",
-                        "ciudad": "Castro",
-                        "codigo": "ll0208"
+                        "nombre": "QUELLON",
+                        "ciudad": "CASTRO",
+                        "codigo": "LL0208"
                     },
                     {
-                        "nombre": "Quemchi",
-                        "ciudad": "Castro",
-                        "codigo": "ll0209"
+                        "nombre": "QUEMCHI",
+                        "ciudad": "CASTRO",
+                        "codigo": "LL0209"
                     },
                     {
-                        "nombre": "Quinchao",
-                        "ciudad": "Castro",
-                        "codigo": "ll0210"
+                        "nombre": "QUINCHAO",
+                        "ciudad": "CASTRO",
+                        "codigo": "LL0210"
                     }
                 ]
             },
             {
-                "nombre": "Osorno",
-                "capital": "Osorno",
+                "nombre": "OSORNO",
+                "capital": "OSORNO",
                 "comunas": [
                     {
-                        "nombre": "Osorno",
-                        "ciudad": "Osorno",
-                        "codigo": "ll0301"
+                        "nombre": "OSORNO",
+                        "ciudad": "OSORNO",
+                        "codigo": "LL0301"
                     },
                     {
-                        "nombre": "Puerto Octay",
-                        "ciudad": "Osorno",
-                        "codigo": "ll0302"
+                        "nombre": "PUERTO OCTAY",
+                        "ciudad": "OSORNO",
+                        "codigo": "LL0302"
                     },
                     {
-                        "nombre": "Purranque",
-                        "ciudad": "Osorno",
-                        "codigo": "ll0303"
+                        "nombre": "PURRANQUE",
+                        "ciudad": "OSORNO",
+                        "codigo": "LL0303"
                     },
                     {
-                        "nombre": "Puyehue",
-                        "ciudad": "Osorno",
-                        "codigo": "ll0304"
+                        "nombre": "PUYEHUE",
+                        "ciudad": "OSORNO",
+                        "codigo": "LL0304"
                     },
                     {
-                        "nombre": "Río Negro",
-                        "ciudad": "Osorno",
-                        "codigo": "ll0305"
+                        "nombre": "RIO NEGRO",
+                        "ciudad": "OSORNO",
+                        "codigo": "LL0305"
                     },
                     {
-                        "nombre": "San Juan de la Costa",
-                        "ciudad": "Osorno",
-                        "codigo": "ll0306"
+                        "nombre": "SAN JUAN DE LA COSTA",
+                        "ciudad": "OSORNO",
+                        "codigo": "LL0306"
                     },
                     {
-                        "nombre": "San Pablo",
-                        "ciudad": "Osorno",
-                        "codigo": "ll0307"
+                        "nombre": "SAN PABLO",
+                        "ciudad": "OSORNO",
+                        "codigo": "LL0307"
                     }
                 ]
             },
             {
-                "nombre": "Palena",
-                "capital": "Chaitén",
+                "nombre": "PALENA",
+                "capital": "CHAITEN",
                 "comunas": [
                     {
-                        "nombre": "Chaitén",
-                        "ciudad": "Chaitén",
-                        "codigo": "ll0401"
+                        "nombre": "CHAITEN",
+                        "ciudad": "CHAITEN",
+                        "codigo": "LL0401"
                     },
                     {
-                        "nombre": "Futaleufú",
-                        "ciudad": "Chaitén",
-                        "codigo": "ll0402"
+                        "nombre": "FUTALEUFU",
+                        "ciudad": "CHAITEN",
+                        "codigo": "LL0402"
                     },
                     {
-                        "nombre": "Hualaihué",
-                        "ciudad": "Chaitén",
-                        "codigo": "ll0403"
+                        "nombre": "HUALAIHUE",
+                        "ciudad": "CHAITEN",
+                        "codigo": "LL0403"
                     },
                     {
-                        "nombre": "Palena",
-                        "ciudad": "Chaitén",
-                        "codigo": "ll0404"
+                        "nombre": "PALENA",
+                        "ciudad": "CHAITEN",
+                        "codigo": "LL0404"
                     }
                 ]
             }
         ]
     },
     {
-        "region": "Región de Aysén del General Carlos Ibáñez del Campo",
-        "capital_regional": "Coyhaique",
+        "region": "REGION DE AYSEN DEL GENERAL CARLOS IBANEZ DEL CAMPO",
+        "capital_regional": "COYHAIQUE",
         "provincias": [
             {
-                "nombre": "Coyhaique",
-                "capital": "Coyhaique",
+                "nombre": "COYHAIQUE",
+                "capital": "COYHAIQUE",
                 "comunas": [
                     {
-                        "nombre": "Coyhaique",
-                        "ciudad": "Coyhaique",
-                        "codigo": "ai0101"
+                        "nombre": "COYHAIQUE",
+                        "ciudad": "COYHAIQUE",
+                        "codigo": "AI0101"
                     },
                     {
-                        "nombre": "Lago Verde",
-                        "ciudad": "Coyhaique",
-                        "codigo": "ai0102"
+                        "nombre": "LAGO VERDE",
+                        "ciudad": "COYHAIQUE",
+                        "codigo": "AI0102"
                     }
                 ]
             },
             {
-                "nombre": "Aysén",
-                "capital": "Puerto Aysén",
+                "nombre": "AYSEN",
+                "capital": "PUERTO AYSEN",
                 "comunas": [
                     {
-                        "nombre": "Aysén",
-                        "ciudad": "Puerto Aysén",
-                        "codigo": "ai0201"
+                        "nombre": "AYSEN",
+                        "ciudad": "PUERTO AYSEN",
+                        "codigo": "AI0201"
                     },
                     {
-                        "nombre": "Cisnes",
-                        "ciudad": "Puerto Aysén",
-                        "codigo": "ai0202"
+                        "nombre": "CISNES",
+                        "ciudad": "PUERTO AYSEN",
+                        "codigo": "AI0202"
                     },
                     {
-                        "nombre": "Guaitecas",
-                        "ciudad": "Puerto Aysén",
-                        "codigo": "ai0203"
+                        "nombre": "GUAITECAS",
+                        "ciudad": "PUERTO AYSEN",
+                        "codigo": "AI0203"
                     }
                 ]
             },
             {
-                "nombre": "Capitán Pratt",
-                "capital": "Cochrane",
+                "nombre": "CAPITAN PRATT",
+                "capital": "COCHRANE",
                 "comunas": [
                     {
-                        "nombre": "Cochrane",
-                        "ciudad": "Cochrane",
-                        "codigo": "ai0301"
+                        "nombre": "COCHRANE",
+                        "ciudad": "COCHRANE",
+                        "codigo": "AI0301"
                     },
                     {
-                        "nombre": "O’Higgins",
-                        "ciudad": "Cochrane",
-                        "codigo": "ai0302"
+                        "nombre": "O’HIGGINS",
+                        "ciudad": "COCHRANE",
+                        "codigo": "AI0302"
                     },
                     {
-                        "nombre": "Tortel",
-                        "ciudad": "Cochrane",
-                        "codigo": "ai0303"
+                        "nombre": "TORTEL",
+                        "ciudad": "COCHRANE",
+                        "codigo": "AI0303"
                     }
                 ]
             },
             {
-                "nombre": "General Carrera",
-                "capital": "Chile Chico",
+                "nombre": "GENERAL CARRERA",
+                "capital": "CHILE CHICO",
                 "comunas": [
                     {
-                        "nombre": "Chile Chico",
-                        "ciudad": "Chile Chico",
-                        "codigo": "ai0401"
+                        "nombre": "CHILE CHICO",
+                        "ciudad": "CHILE CHICO",
+                        "codigo": "AI0401"
                     },
                     {
-                        "nombre": "Río Ibáñez",
-                        "ciudad": "Chile Chico",
-                        "codigo": "ai0402"
+                        "nombre": "RIO IBANEZ",
+                        "ciudad": "CHILE CHICO",
+                        "codigo": "AI0402"
                     }
                 ]
             }
         ]
     },
     {
-        "region": "Región de Magallanes y de la Antártica Chilena",
-        "capital_regional": "Punta Arenas",
+        "region": "REGION DE MAGALLANES Y DE LA ANTARTICA CHILENA",
+        "capital_regional": "PUNTA ARENAS",
         "provincias": [
             {
-                "nombre": "Magallanes",
-                "capital": "Punta Arenas",
+                "nombre": "MAGALLANES",
+                "capital": "PUNTA ARENAS",
                 "comunas": [
                     {
-                        "nombre": "Punta Arenas",
-                        "ciudad": "Punta Arenas",
-                        "codigo": "ma0101"
+                        "nombre": "PUNTA ARENAS",
+                        "ciudad": "PUNTA ARENAS",
+                        "codigo": "MA0101"
                     },
                     {
-                        "nombre": "Laguna Blanca",
-                        "ciudad": "Punta Arenas",
-                        "codigo": "ma0102"
+                        "nombre": "LAGUNA BLANCA",
+                        "ciudad": "PUNTA ARENAS",
+                        "codigo": "MA0102"
                     },
                     {
-                        "nombre": "Río Verde",
-                        "ciudad": "Punta Arenas",
-                        "codigo": "ma0103"
+                        "nombre": "RIO VERDE",
+                        "ciudad": "PUNTA ARENAS",
+                        "codigo": "MA0103"
                     },
                     {
-                        "nombre": "San Gregorio",
-                        "ciudad": "Punta Arenas",
-                        "codigo": "ma0104"
+                        "nombre": "SAN GREGORIO",
+                        "ciudad": "PUNTA ARENAS",
+                        "codigo": "MA0104"
                     }
                 ]
             },
             {
-                "nombre": "Antártica Chilena",
-                "capital": "Puerto Williams",
+                "nombre": "ANTARTICA CHILENA",
+                "capital": "PUERTO WILLIAMS",
                 "comunas": [
                     {
-                        "nombre": "Cabo de Hornos (Ex. Navarino)",
-                        "ciudad": "Puerto Williams",
-                        "codigo": "ma0201"
+                        "nombre": "CABO DE HORNOS (EX. NAVARINO)",
+                        "ciudad": "PUERTO WILLIAMS",
+                        "codigo": "MA0201"
                     },
                     {
-                        "nombre": "Antártica",
-                        "ciudad": "Puerto Williams",
-                        "codigo": "ma0202"
+                        "nombre": "ANTARTICA",
+                        "ciudad": "PUERTO WILLIAMS",
+                        "codigo": "MA0202"
                     }
                 ]
             },
             {
-                "nombre": "Tierra del Fuego",
-                "capital": "Porvenir",
+                "nombre": "TIERRA DEL FUEGO",
+                "capital": "PORVENIR",
                 "comunas": [
                     {
-                        "nombre": "Porvenir",
-                        "ciudad": "Porvenir",
-                        "codigo": "ma0301"
+                        "nombre": "PORVENIR",
+                        "ciudad": "PORVENIR",
+                        "codigo": "MA0301"
                     },
                     {
-                        "nombre": "Primavera",
-                        "ciudad": "Porvenir",
-                        "codigo": "ma0302"
+                        "nombre": "PRIMAVERA",
+                        "ciudad": "PORVENIR",
+                        "codigo": "MA0302"
                     },
                     {
-                        "nombre": "Timaukel",
-                        "ciudad": "Porvenir",
-                        "codigo": "ma0303"
+                        "nombre": "TIMAUKEL",
+                        "ciudad": "PORVENIR",
+                        "codigo": "MA0303"
                     }
                 ]
             },
             {
-                "nombre": "Última Esperanza",
-                "capital": "Puerto Natales",
+                "nombre": "ULTIMA ESPERANZA",
+                "capital": "PUERTO NATALES",
                 "comunas": [
                     {
-                        "nombre": "Natales",
-                        "ciudad": "Puerto Natales",
-                        "codigo": "ma0401"
+                        "nombre": "NATALES",
+                        "ciudad": "PUERTO NATALES",
+                        "codigo": "MA0401"
                     },
                     {
-                        "nombre": "Torres del Paine",
-                        "ciudad": "Puerto Natales",
-                        "codigo": "ma0402"
+                        "nombre": "TORRES DEL PAINE",
+                        "ciudad": "PUERTO NATALES",
+                        "codigo": "MA0402"
                     }
                 ]
             }
         ]
     },
     {
-        "region": "Región Metropolitana de Santiago",
-        "capital_regional": "Santiago",
+        "region": "REGION METROPOLITANA DE SANTIAGO",
+        "capital_regional": "SANTIAGO",
         "provincias": [
             {
-                "nombre": "Santiago",
-                "capital": "Santiago",
+                "nombre": "SANTIAGO",
+                "capital": "SANTIAGO",
                 "comunas": [
                     {
-                        "nombre": "Santiago",
-                        "ciudad": "Santiago",
-                        "codigo": "rm0101"
+                        "nombre": "SANTIAGO",
+                        "ciudad": "SANTIAGO",
+                        "codigo": "RM0101"
                     },
                     {
-                        "nombre": "Cerrillos",
-                        "ciudad": "Santiago",
-                        "codigo": "rm0102"
+                        "nombre": "CERRILLOS",
+                        "ciudad": "SANTIAGO",
+                        "codigo": "RM0102"
                     },
                     {
-                        "nombre": "Cerro Navia",
-                        "ciudad": "Santiago",
-                        "codigo": "rm0103"
+                        "nombre": "CERRO NAVIA",
+                        "ciudad": "SANTIAGO",
+                        "codigo": "RM0103"
                     },
                     {
-                        "nombre": "Conchalí",
-                        "ciudad": "Santiago",
-                        "codigo": "rm0104"
+                        "nombre": "CONCHALI",
+                        "ciudad": "SANTIAGO",
+                        "codigo": "RM0104"
                     },
                     {
-                        "nombre": "El Bosque",
-                        "ciudad": "Santiago",
-                        "codigo": "rm0105"
+                        "nombre": "EL BOSQUE",
+                        "ciudad": "SANTIAGO",
+                        "codigo": "RM0105"
                     },
                     {
-                        "nombre": "Estación Central",
-                        "ciudad": "Santiago",
-                        "codigo": "rm0106"
+                        "nombre": "ESTACION CENTRAL",
+                        "ciudad": "SANTIAGO",
+                        "codigo": "RM0106"
                     },
                     {
-                        "nombre": "Huechuraba",
-                        "ciudad": "Santiago",
-                        "codigo": "rm0107"
+                        "nombre": "HUECHURABA",
+                        "ciudad": "SANTIAGO",
+                        "codigo": "RM0107"
                     },
                     {
-                        "nombre": "Independencia",
-                        "ciudad": "Santiago",
-                        "codigo": "rm0108"
+                        "nombre": "INDEPENDENCIA",
+                        "ciudad": "SANTIAGO",
+                        "codigo": "RM0108"
                     },
                     {
-                        "nombre": "La Cisterna",
-                        "ciudad": "Santiago",
-                        "codigo": "rm0109"
+                        "nombre": "LA CISTERNA",
+                        "ciudad": "SANTIAGO",
+                        "codigo": "RM0109"
                     },
                     {
-                        "nombre": "La Florida",
-                        "ciudad": "Santiago",
-                        "codigo": "rm0110"
+                        "nombre": "LA FLORIDA",
+                        "ciudad": "SANTIAGO",
+                        "codigo": "RM0110"
                     },
                     {
-                        "nombre": "La Granja",
-                        "ciudad": "Santiago",
-                        "codigo": "rm0111"
+                        "nombre": "LA GRANJA",
+                        "ciudad": "SANTIAGO",
+                        "codigo": "RM0111"
                     },
                     {
-                        "nombre": "La Pintana",
-                        "ciudad": "Santiago",
-                        "codigo": "rm0112"
+                        "nombre": "LA PINTANA",
+                        "ciudad": "SANTIAGO",
+                        "codigo": "RM0112"
                     },
                     {
-                        "nombre": "La Reina",
-                        "ciudad": "Santiago",
-                        "codigo": "rm0113"
+                        "nombre": "LA REINA",
+                        "ciudad": "SANTIAGO",
+                        "codigo": "RM0113"
                     },
                     {
-                        "nombre": "Las Condes",
-                        "ciudad": "Santiago",
-                        "codigo": "rm0114"
+                        "nombre": "LAS CONDES",
+                        "ciudad": "SANTIAGO",
+                        "codigo": "RM0114"
                     },
                     {
-                        "nombre": "Lo Barnechea",
-                        "ciudad": "Santiago",
-                        "codigo": "rm0115"
+                        "nombre": "LO BARNECHEA",
+                        "ciudad": "SANTIAGO",
+                        "codigo": "RM0115"
                     },
                     {
-                        "nombre": "Lo Espejo",
-                        "ciudad": "Santiago",
-                        "codigo": "rm0116"
+                        "nombre": "LO ESPEJO",
+                        "ciudad": "SANTIAGO",
+                        "codigo": "RM0116"
                     },
                     {
-                        "nombre": "Lo Prado",
-                        "ciudad": "Santiago",
-                        "codigo": "rm0117"
+                        "nombre": "LO PRADO",
+                        "ciudad": "SANTIAGO",
+                        "codigo": "RM0117"
                     },
                     {
-                        "nombre": "Macul",
-                        "ciudad": "Santiago",
-                        "codigo": "rm0118"
+                        "nombre": "MACUL",
+                        "ciudad": "SANTIAGO",
+                        "codigo": "RM0118"
                     },
                     {
-                        "nombre": "Maipú",
-                        "ciudad": "Santiago",
-                        "codigo": "rm0119"
+                        "nombre": "MAIPU",
+                        "ciudad": "SANTIAGO",
+                        "codigo": "RM0119"
                     },
                     {
-                        "nombre": "Ñuñoa",
-                        "ciudad": "Santiago",
-                        "codigo": "rm0120"
+                        "nombre": "NUNOA",
+                        "ciudad": "SANTIAGO",
+                        "codigo": "RM0120"
                     },
                     {
-                        "nombre": "Pedro Aguirre Cerda",
-                        "ciudad": "Santiago",
-                        "codigo": "rm0121"
+                        "nombre": "PEDRO AGUIRRE CERDA",
+                        "ciudad": "SANTIAGO",
+                        "codigo": "RM0121"
                     },
                     {
-                        "nombre": "Peñalolén",
-                        "ciudad": "Santiago",
-                        "codigo": "rm0122"
+                        "nombre": "PENALOLEN",
+                        "ciudad": "SANTIAGO",
+                        "codigo": "RM0122"
                     },
                     {
-                        "nombre": "Providencia",
-                        "ciudad": "Santiago",
-                        "codigo": "rm0123"
+                        "nombre": "PROVIDENCIA",
+                        "ciudad": "SANTIAGO",
+                        "codigo": "RM0123"
                     },
                     {
-                        "nombre": "Pudahuel",
-                        "ciudad": "Santiago",
-                        "codigo": "rm0124"
+                        "nombre": "PUDAHUEL",
+                        "ciudad": "SANTIAGO",
+                        "codigo": "RM0124"
                     },
                     {
-                        "nombre": "Quilicura",
-                        "ciudad": "Santiago",
-                        "codigo": "rm0125"
+                        "nombre": "QUILICURA",
+                        "ciudad": "SANTIAGO",
+                        "codigo": "RM0125"
                     },
                     {
-                        "nombre": "Quinta Normal",
-                        "ciudad": "Santiago",
-                        "codigo": "rm0126"
+                        "nombre": "QUINTA NORMAL",
+                        "ciudad": "SANTIAGO",
+                        "codigo": "RM0126"
                     },
                     {
-                        "nombre": "Recoleta",
-                        "ciudad": "Santiago",
-                        "codigo": "rm0127"
+                        "nombre": "RECOLETA",
+                        "ciudad": "SANTIAGO",
+                        "codigo": "RM0127"
                     },
                     {
-                        "nombre": "Renca",
-                        "ciudad": "Santiago",
-                        "codigo": "rm0128"
+                        "nombre": "RENCA",
+                        "ciudad": "SANTIAGO",
+                        "codigo": "RM0128"
                     },
                     {
-                        "nombre": "San Joaquín",
-                        "ciudad": "Santiago",
-                        "codigo": "rm0129"
+                        "nombre": "SAN JOAQUIN",
+                        "ciudad": "SANTIAGO",
+                        "codigo": "RM0129"
                     },
                     {
-                        "nombre": "San Miguel",
-                        "ciudad": "Santiago",
-                        "codigo": "rm0130"
+                        "nombre": "SAN MIGUEL",
+                        "ciudad": "SANTIAGO",
+                        "codigo": "RM0130"
                     },
                     {
-                        "nombre": "San Ramón",
-                        "ciudad": "Santiago",
-                        "codigo": "rm0131"
+                        "nombre": "SAN RAMON",
+                        "ciudad": "SANTIAGO",
+                        "codigo": "RM0131"
                     },
                     {
-                        "nombre": "Vitacura",
-                        "ciudad": "Santiago",
-                        "codigo": "rm0132"
+                        "nombre": "VITACURA",
+                        "ciudad": "SANTIAGO",
+                        "codigo": "RM0132"
                     }
                 ]
             },
             {
-                "nombre": "Cordillera",
-                "capital": "Puente Alto",
+                "nombre": "CORDILLERA",
+                "capital": "PUENTE ALTO",
                 "comunas": [
                     {
-                        "nombre": "Puente Alto",
-                        "ciudad": "Puente Alto",
-                        "codigo": "rm0201"
+                        "nombre": "PUENTE ALTO",
+                        "ciudad": "PUENTE ALTO",
+                        "codigo": "RM0201"
                     },
                     {
-                        "nombre": "Pirque",
-                        "ciudad": "Puente Alto",
-                        "codigo": "rm0202"
+                        "nombre": "PIRQUE",
+                        "ciudad": "PUENTE ALTO",
+                        "codigo": "RM0202"
                     },
                     {
-                        "nombre": "San José de Maipo",
-                        "ciudad": "Puente Alto",
-                        "codigo": "rm0203"
+                        "nombre": "SAN JOSE DE MAIPO",
+                        "ciudad": "PUENTE ALTO",
+                        "codigo": "RM0203"
                     }
                 ]
             },
             {
-                "nombre": "Chacabuco",
-                "capital": "Colina",
+                "nombre": "CHACABUCO",
+                "capital": "COLINA",
                 "comunas": [
                     {
-                        "nombre": "Colina",
-                        "ciudad": "Colina",
-                        "codigo": "rm0301"
+                        "nombre": "COLINA",
+                        "ciudad": "COLINA",
+                        "codigo": "RM0301"
                     },
                     {
-                        "nombre": "Lampa",
-                        "ciudad": "Colina",
-                        "codigo": "rm0302"
+                        "nombre": "LAMPA",
+                        "ciudad": "COLINA",
+                        "codigo": "RM0302"
                     },
                     {
-                        "nombre": "Tiltil",
-                        "ciudad": "Colina",
-                        "codigo": "rm0303"
+                        "nombre": "TILTIL",
+                        "ciudad": "COLINA",
+                        "codigo": "RM0303"
                     }
                 ]
             },
             {
-                "nombre": "Maipo",
-                "capital": "San Bernardo",
+                "nombre": "MAIPO",
+                "capital": "SAN BERNARDO",
                 "comunas": [
                     {
-                        "nombre": "San Bernardo",
-                        "ciudad": "San Bernardo",
-                        "codigo": "rm0401"
+                        "nombre": "SAN BERNARDO",
+                        "ciudad": "SAN BERNARDO",
+                        "codigo": "RM0401"
                     },
                     {
-                        "nombre": "Buin",
-                        "ciudad": "San Bernardo",
-                        "codigo": "rm0402"
+                        "nombre": "BUIN",
+                        "ciudad": "SAN BERNARDO",
+                        "codigo": "RM0402"
                     },
                     {
-                        "nombre": "Calera de Tango",
-                        "ciudad": "San Bernardo",
-                        "codigo": "rm0403"
+                        "nombre": "CALERA DE TANGO",
+                        "ciudad": "SAN BERNARDO",
+                        "codigo": "RM0403"
                     },
                     {
-                        "nombre": "Paine",
-                        "ciudad": "San Bernardo",
-                        "codigo": "rm0404"
+                        "nombre": "PAINE",
+                        "ciudad": "SAN BERNARDO",
+                        "codigo": "RM0404"
                     }
                 ]
             },
             {
-                "nombre": "Melipilla",
-                "capital": "Melipilla",
+                "nombre": "MELIPILLA",
+                "capital": "MELIPILLA",
                 "comunas": [
                     {
-                        "nombre": "Melipilla",
-                        "ciudad": "Melipilla",
-                        "codigo": "rm0501"
+                        "nombre": "MELIPILLA",
+                        "ciudad": "MELIPILLA",
+                        "codigo": "RM0501"
                     },
                     {
-                        "nombre": "Alhué",
-                        "ciudad": "Melipilla",
-                        "codigo": "rm0502"
+                        "nombre": "ALHUE",
+                        "ciudad": "MELIPILLA",
+                        "codigo": "RM0502"
                     },
                     {
-                        "nombre": "Curacaví",
-                        "ciudad": "Melipilla",
-                        "codigo": "rm0503"
+                        "nombre": "CURACAVI",
+                        "ciudad": "MELIPILLA",
+                        "codigo": "RM0503"
                     },
                     {
-                        "nombre": "María Pinto",
-                        "ciudad": "Melipilla",
-                        "codigo": "rm0504"
+                        "nombre": "MARIA PINTO",
+                        "ciudad": "MELIPILLA",
+                        "codigo": "RM0504"
                     },
                     {
-                        "nombre": "San Pedro",
-                        "ciudad": "Melipilla",
-                        "codigo": "rm0505"
+                        "nombre": "SAN PEDRO",
+                        "ciudad": "MELIPILLA",
+                        "codigo": "RM0505"
                     }
                 ]
             },
             {
-                "nombre": "Talagante",
-                "capital": "Talagante",
+                "nombre": "TALAGANTE",
+                "capital": "TALAGANTE",
                 "comunas": [
                     {
-                        "nombre": "Talagante",
-                        "ciudad": "Talagante",
-                        "codigo": "rm0601"
+                        "nombre": "TALAGANTE",
+                        "ciudad": "TALAGANTE",
+                        "codigo": "RM0601"
                     },
                     {
-                        "nombre": "El Monte",
-                        "ciudad": "Talagante",
-                        "codigo": "rm0602"
+                        "nombre": "EL MONTE",
+                        "ciudad": "TALAGANTE",
+                        "codigo": "RM0602"
                     },
                     {
-                        "nombre": "Isla de Maipo",
-                        "ciudad": "Talagante",
-                        "codigo": "rm0603"
+                        "nombre": "ISLA DE MAIPO",
+                        "ciudad": "TALAGANTE",
+                        "codigo": "RM0603"
                     },
                     {
-                        "nombre": "Padre Hurtado",
-                        "ciudad": "Talagante",
-                        "codigo": "rm0604"
+                        "nombre": "PADRE HURTADO",
+                        "ciudad": "TALAGANTE",
+                        "codigo": "RM0604"
                     },
                     {
-                        "nombre": "Peñaflor",
-                        "ciudad": "Talagante",
-                        "codigo": "rm0605"
+                        "nombre": "PENAFLOR",
+                        "ciudad": "TALAGANTE",
+                        "codigo": "RM0605"
                     }
                 ]
             }
