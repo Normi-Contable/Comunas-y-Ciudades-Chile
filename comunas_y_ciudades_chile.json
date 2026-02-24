@@ -1,2873 +1,2163 @@
 [
     {
-        "codigo": 1,
-        "nombre": "REGIÓN DE TARAPACÁ",
-        "comunas": [
+        "region": "Arica y Parinacota",
+        "capital_regional": "Arica",
+        "provincias": [
             {
-                "codigo": "1211",
-                "nombre": "ALTO HOSPICIO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Arica",
+                "capital": "Arica",
+                "comunas": [
+                    {
+                        "nombre": "Arica",
+                        "ciudad": "Arica",
+                        "codigo": "ap0101"
+                    },
+                    {
+                        "nombre": "Camarones",
+                        "ciudad": "Arica",
+                        "codigo": "ap0102"
+                    }
+                ]
             },
             {
-                "codigo": "1208",
-                "nombre": "CAMIÑA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "1210",
-                "nombre": "COLCHANE",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "1206",
-                "nombre": "HUARA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "1201",
-                "nombre": "IQUIQUE",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "1203",
-                "nombre": "PICA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "1204",
-                "nombre": "POZO ALMONTE",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Parinacota",
+                "capital": "Putre",
+                "comunas": [
+                    {
+                        "nombre": "Putre",
+                        "ciudad": "Putre",
+                        "codigo": "ap0201"
+                    },
+                    {
+                        "nombre": "General Lagos",
+                        "ciudad": "Putre",
+                        "codigo": "ap0202"
+                    }
+                ]
             }
         ]
     },
     {
-        "codigo": 2,
-        "nombre": "REGIÓN DE ANTOFAGASTA",
-        "comunas": [
+        "region": "Tarapacá",
+        "capital_regional": "Iquique",
+        "provincias": [
             {
-                "codigo": "2201",
-                "nombre": "ANTOFAGASTA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Iquique",
+                "capital": "Iquique",
+                "comunas": [
+                    {
+                        "nombre": "Iquique",
+                        "ciudad": "Iquique",
+                        "codigo": "ta0101"
+                    },
+                    {
+                        "nombre": "Alto Hospicio",
+                        "ciudad": "Iquique",
+                        "codigo": "ta0102"
+                    }
+                ]
             },
             {
-                "codigo": "2301",
-                "nombre": "CALAMA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "2103",
-                "nombre": "MARÍA ELENA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "2203",
-                "nombre": "MEJILLONES",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "2302",
-                "nombre": "OLLAGÜE",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "2303",
-                "nombre": "SAN PEDRO DE ATACAMA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "2206",
-                "nombre": "SIERRA GORDA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "2202",
-                "nombre": "TALTAL",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "2101",
-                "nombre": "TOCOPILLA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Tamarugal",
+                "capital": "Pozo Almonte",
+                "comunas": [
+                    {
+                        "nombre": "Pozo Almonte",
+                        "ciudad": "Pozo Almonte",
+                        "codigo": "ta0201"
+                    },
+                    {
+                        "nombre": "Camiña",
+                        "ciudad": "Pozo Almonte",
+                        "codigo": "ta0202"
+                    },
+                    {
+                        "nombre": "Colchane",
+                        "ciudad": "Pozo Almonte",
+                        "codigo": "ta0203"
+                    },
+                    {
+                        "nombre": "Huara",
+                        "ciudad": "Pozo Almonte",
+                        "codigo": "ta0204"
+                    },
+                    {
+                        "nombre": "Pica",
+                        "ciudad": "Pozo Almonte",
+                        "codigo": "ta0205"
+                    }
+                ]
             }
         ]
     },
     {
-        "codigo": 3,
-        "nombre": "REGIÓN DE ATACAMA",
-        "comunas": [
+        "region": "Antofagasta",
+        "capital_regional": "Antofagasta",
+        "provincias": [
             {
-                "codigo": "3304",
-                "nombre": "ALTO DEL CARMEN",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Antofagasta",
+                "capital": "Antofagasta",
+                "comunas": [
+                    {
+                        "nombre": "Antofagasta",
+                        "ciudad": "Antofagasta",
+                        "codigo": "an0101"
+                    },
+                    {
+                        "nombre": "Mejillones",
+                        "ciudad": "Antofagasta",
+                        "codigo": "an0102"
+                    },
+                    {
+                        "nombre": "Sierra Gorda",
+                        "ciudad": "Antofagasta",
+                        "codigo": "an0103"
+                    },
+                    {
+                        "nombre": "Taltal",
+                        "ciudad": "Antofagasta",
+                        "codigo": "an0104"
+                    }
+                ]
             },
             {
-                "codigo": "3202",
-                "nombre": "CALDERA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "El Loa",
+                "capital": "Calama",
+                "comunas": [
+                    {
+                        "nombre": "Calama",
+                        "ciudad": "Calama",
+                        "codigo": "an0201"
+                    },
+                    {
+                        "nombre": "Ollagüe",
+                        "ciudad": "Calama",
+                        "codigo": "an0202"
+                    },
+                    {
+                        "nombre": "San Pedro de Atacama",
+                        "ciudad": "Calama",
+                        "codigo": "an0203"
+                    }
+                ]
             },
             {
-                "codigo": "3101",
-                "nombre": "CHAÑARAL",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "3201",
-                "nombre": "COPIAPÓ",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "3102",
-                "nombre": "DIEGO DE ALMAGRO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "3302",
-                "nombre": "FREIRINA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "3303",
-                "nombre": "HUASCO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "3203",
-                "nombre": "TIERRA AMARILLA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "3301",
-                "nombre": "VALLENAR",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Tocopilla",
+                "capital": "Tocopilla",
+                "comunas": [
+                    {
+                        "nombre": "Tocopilla",
+                        "ciudad": "Tocopilla",
+                        "codigo": "an0301"
+                    },
+                    {
+                        "nombre": "María Elena",
+                        "ciudad": "Tocopilla",
+                        "codigo": "an0302"
+                    }
+                ]
             }
         ]
     },
     {
-        "codigo": 4,
-        "nombre": "REGIÓN DE COQUIMBO",
-        "comunas": [
+        "region": "Atacama",
+        "capital_regional": "Copiapo",
+        "provincias": [
             {
-                "codigo": "4104",
-                "nombre": "ANDACOLLO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Copiapó",
+                "capital": "Copiapó",
+                "comunas": [
+                    {
+                        "nombre": "Copiapó",
+                        "ciudad": "Copiapó",
+                        "codigo": "at0101"
+                    },
+                    {
+                        "nombre": "Caldera",
+                        "ciudad": "Copiapó",
+                        "codigo": "at0102"
+                    },
+                    {
+                        "nombre": "Tierra Amarilla",
+                        "ciudad": "Copiapó",
+                        "codigo": "at0103"
+                    }
+                ]
             },
             {
-                "codigo": "4304",
-                "nombre": "CANELA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Chañaral",
+                "capital": "Chañaral",
+                "comunas": [
+                    {
+                        "nombre": "Chañaral",
+                        "ciudad": "Chañaral",
+                        "codigo": "at0201"
+                    },
+                    {
+                        "nombre": "Diego de Almagro",
+                        "ciudad": "Chañaral",
+                        "codigo": "at0202"
+                    }
+                ]
             },
             {
-                "codigo": "4205",
-                "nombre": "COMBARBALÁ",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "4103",
-                "nombre": "COQUIMBO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "4301",
-                "nombre": "ILLAPEL",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "4102",
-                "nombre": "LA HIGUERA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "4101",
-                "nombre": "LA SERENA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "4303",
-                "nombre": "LOS VILOS",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "4203",
-                "nombre": "MONTE PATRIA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "4201",
-                "nombre": "OVALLE",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "4106",
-                "nombre": "PAIHUANO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "4204",
-                "nombre": "PUNITAQUI",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "4206",
-                "nombre": "RÍO HURTADO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "4302",
-                "nombre": "SALAMANCA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "4105",
-                "nombre": "VICUÑA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Huasco",
+                "capital": "Vallenar",
+                "comunas": [
+                    {
+                        "nombre": "Vallenar",
+                        "ciudad": "Vallenar",
+                        "codigo": "at0301"
+                    },
+                    {
+                        "nombre": "Alto del Carmen",
+                        "ciudad": "Vallenar",
+                        "codigo": "at0302"
+                    },
+                    {
+                        "nombre": "Freirina",
+                        "ciudad": "Vallenar",
+                        "codigo": "at0303"
+                    },
+                    {
+                        "nombre": "Huasco",
+                        "ciudad": "Vallenar",
+                        "codigo": "at0304"
+                    }
+                ]
             }
         ]
     },
     {
-        "codigo": 5,
-        "nombre": "REGIÓN DE VALPARAÍSO",
-        "comunas": [
+        "region": "Coquimbo",
+        "capital_regional": "La Serena",
+        "provincias": [
             {
-                "codigo": "5406",
-                "nombre": "ALGARROBO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Elqui",
+                "capital": "Coquimbo",
+                "comunas": [
+                    {
+                        "nombre": "La Serena",
+                        "ciudad": "Coquimbo",
+                        "codigo": "co0101"
+                    },
+                    {
+                        "nombre": "Coquimbo",
+                        "ciudad": "Coquimbo",
+                        "codigo": "co0102"
+                    },
+                    {
+                        "nombre": "Andacollo",
+                        "ciudad": "Coquimbo",
+                        "codigo": "co0103"
+                    },
+                    {
+                        "nombre": "La Higuera",
+                        "ciudad": "Coquimbo",
+                        "codigo": "co0104"
+                    },
+                    {
+                        "nombre": "Paiguano",
+                        "ciudad": "Coquimbo",
+                        "codigo": "co0105"
+                    },
+                    {
+                        "nombre": "Vicuña",
+                        "ciudad": "Coquimbo",
+                        "codigo": "co0106"
+                    }
+                ]
             },
             {
-                "codigo": "5203",
-                "nombre": "CABILDO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Choapa",
+                "capital": "Illapel",
+                "comunas": [
+                    {
+                        "nombre": "Illapel",
+                        "ciudad": "Illapel",
+                        "codigo": "co0201"
+                    },
+                    {
+                        "nombre": "Canela",
+                        "ciudad": "Illapel",
+                        "codigo": "co0202"
+                    },
+                    {
+                        "nombre": "Los Vilos",
+                        "ciudad": "Illapel",
+                        "codigo": "co0203"
+                    },
+                    {
+                        "nombre": "Salamanca",
+                        "ciudad": "Illapel",
+                        "codigo": "co0204"
+                    }
+                ]
             },
             {
-                "codigo": "5702",
-                "nombre": "CALLE LARGA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "5403",
-                "nombre": "CARTAGENA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "5305",
-                "nombre": "CASABLANCA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "5603",
-                "nombre": "CATEMU",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "5309",
-                "nombre": "CONCÓN",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "5405",
-                "nombre": "EL QUISCO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "5404",
-                "nombre": "EL TABO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "5503",
-                "nombre": "HIJUELAS",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "5101",
-                "nombre": "ISLA DE PASCUA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "5308",
-                "nombre": "JUAN FERNÁNDEZ",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "5504",
-                "nombre": "LA CALERA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "5505",
-                "nombre": "LA CRUZ",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "5201",
-                "nombre": "LA LIGUA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "5506",
-                "nombre": "LIMACHE",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "5606",
-                "nombre": "LLAY-LLAY",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "5701",
-                "nombre": "LOS ANDES",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "5502",
-                "nombre": "NOGALES",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "5507",
-                "nombre": "OLMUÉ",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "5602",
-                "nombre": "PANQUEHUE",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "5205",
-                "nombre": "PAPUDO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "5202",
-                "nombre": "PETORCA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "5307",
-                "nombre": "PUCHUNCAVÍ",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "5604",
-                "nombre": "PUTAENDO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "5501",
-                "nombre": "QUILLOTA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "5304",
-                "nombre": "QUILPUÉ",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "5306",
-                "nombre": "QUINTERO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "5704",
-                "nombre": "RINCONADA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "5401",
-                "nombre": "SAN ANTONIO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "5703",
-                "nombre": "SAN ESTEBAN",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "5601",
-                "nombre": "SAN FELIPE",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "5605",
-                "nombre": "SANTA MARÍA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "5402",
-                "nombre": "SANTO DOMINGO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "5301",
-                "nombre": "VALPARAISO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "5303",
-                "nombre": "VILLA ALEMANA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "5302",
-                "nombre": "VIÑA DEL MAR",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "5204",
-                "nombre": "ZAPALLAR",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Limarí",
+                "capital": "Ovalle",
+                "comunas": [
+                    {
+                        "nombre": "Ovalle",
+                        "ciudad": "Ovalle",
+                        "codigo": "co0301"
+                    },
+                    {
+                        "nombre": "Combarbalá",
+                        "ciudad": "Ovalle",
+                        "codigo": "co0302"
+                    },
+                    {
+                        "nombre": "Monte Patria",
+                        "ciudad": "Ovalle",
+                        "codigo": "co0303"
+                    },
+                    {
+                        "nombre": "Punitaqui",
+                        "ciudad": "Ovalle",
+                        "codigo": "co0304"
+                    },
+                    {
+                        "nombre": "Río Hurtado",
+                        "ciudad": "Ovalle",
+                        "codigo": "co0305"
+                    }
+                ]
             }
         ]
     },
     {
-        "codigo": 6,
-        "nombre": "REGIÓN DEL LIBERTADOR BERNARDO O'HIGGINS",
-        "comunas": [
+        "region": "Valparaíso",
+        "capital_regional": "Valparaíso",
+        "provincias": [
             {
-                "codigo": "6202",
-                "nombre": "CHIMBARONGO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Valparaíso",
+                "capital": "Valparaíso",
+                "comunas": [
+                    {
+                        "nombre": "Valparaíso",
+                        "ciudad": "Valparaíso",
+                        "codigo": "vs0101"
+                    },
+                    {
+                        "nombre": "Casablanca",
+                        "ciudad": "Valparaíso",
+                        "codigo": "vs0102"
+                    },
+                    {
+                        "nombre": "Concón",
+                        "ciudad": "Valparaíso",
+                        "codigo": "vs0103"
+                    },
+                    {
+                        "nombre": "Juan Fernández",
+                        "ciudad": "Valparaíso",
+                        "codigo": "vs0104"
+                    },
+                    {
+                        "nombre": "Puchuncaví",
+                        "ciudad": "Valparaíso",
+                        "codigo": "vs0105"
+                    },
+                    {
+                        "nombre": "Quintero",
+                        "ciudad": "Valparaíso",
+                        "codigo": "vs0107"
+                    },
+                    {
+                        "nombre": "Viña del Mar",
+                        "ciudad": "Valparaíso",
+                        "codigo": "vs0109"
+                    }
+                ]
             },
             {
-                "codigo": "6209",
-                "nombre": "CHÉPICA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Isla de Pascua",
+                "capital": "Hanga Roa",
+                "comunas": [
+                    {
+                        "nombre": "Isla de Pascua",
+                        "ciudad": "Hanga Roa",
+                        "codigo": "vs0201"
+                    }
+                ]
             },
             {
-                "codigo": "6107",
-                "nombre": "CODEGUA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Los Andes",
+                "capital": "Los Andes",
+                "comunas": [
+                    {
+                        "nombre": "Los Andes",
+                        "ciudad": "Los Andes",
+                        "codigo": "vs0301"
+                    },
+                    {
+                        "nombre": "Calle Larga",
+                        "ciudad": "Los Andes",
+                        "codigo": "vs0302"
+                    },
+                    {
+                        "nombre": "Rinconada",
+                        "ciudad": "Los Andes",
+                        "codigo": "vs0303"
+                    },
+                    {
+                        "nombre": "San Esteban",
+                        "ciudad": "Los Andes",
+                        "codigo": "vs0304"
+                    }
+                ]
             },
             {
-                "codigo": "6116",
-                "nombre": "COINCO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Petorca",
+                "capital": "La Ligua",
+                "comunas": [
+                    {
+                        "nombre": "La Ligua",
+                        "ciudad": "La Ligua",
+                        "codigo": "vs0401"
+                    },
+                    {
+                        "nombre": "Cabildo",
+                        "ciudad": "La Ligua",
+                        "codigo": "vs0402"
+                    },
+                    {
+                        "nombre": "Papudo",
+                        "ciudad": "La Ligua",
+                        "codigo": "vs0403"
+                    },
+                    {
+                        "nombre": "Petorca",
+                        "ciudad": "La Ligua",
+                        "codigo": "vs0404"
+                    },
+                    {
+                        "nombre": "Zapallar",
+                        "ciudad": "La Ligua",
+                        "codigo": "vs0405"
+                    }
+                ]
             },
             {
-                "codigo": "6106",
-                "nombre": "COLTAUCO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Quillota",
+                "capital": "Quillota",
+                "comunas": [
+                    {
+                        "nombre": "Quillota",
+                        "ciudad": "Quillota",
+                        "codigo": "vs0501"
+                    },
+                    {
+                        "nombre": "Calera",
+                        "ciudad": "Quillota",
+                        "codigo": "vs0502"
+                    },
+                    {
+                        "nombre": "Hijuelas",
+                        "ciudad": "Quillota",
+                        "codigo": "vs0503"
+                    },
+                    {
+                        "nombre": "La Cruz",
+                        "ciudad": "Quillota",
+                        "codigo": "vs0504"
+                    },
+                    {
+                        "nombre": "Nogales",
+                        "ciudad": "Quillota",
+                        "codigo": "vs0506"
+                    }
+                ]
             },
             {
-                "codigo": "6105",
-                "nombre": "DOÑIHUE",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "San Antonio",
+                "capital": "San Antonio",
+                "comunas": [
+                    {
+                        "nombre": "San Antonio",
+                        "ciudad": "San Antonio",
+                        "codigo": "vs0601"
+                    },
+                    {
+                        "nombre": "Algarrobo",
+                        "ciudad": "San Antonio",
+                        "codigo": "vs0602"
+                    },
+                    {
+                        "nombre": "Cartagena",
+                        "ciudad": "San Antonio",
+                        "codigo": "vs0603"
+                    },
+                    {
+                        "nombre": "El Quisco",
+                        "ciudad": "San Antonio",
+                        "codigo": "vs0604"
+                    },
+                    {
+                        "nombre": "El Tabo",
+                        "ciudad": "San Antonio",
+                        "codigo": "vs0605"
+                    },
+                    {
+                        "nombre": "Santo Domingo",
+                        "ciudad": "San Antonio",
+                        "codigo": "vs0606"
+                    }
+                ]
             },
             {
-                "codigo": "6103",
-                "nombre": "GRANEROS",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "San Felipe de Aconcagua",
+                "capital": "San Felipe",
+                "comunas": [
+                    {
+                        "nombre": "San Felipe",
+                        "ciudad": "San Felipe",
+                        "codigo": "vs0701"
+                    },
+                    {
+                        "nombre": "Catemu",
+                        "ciudad": "San Felipe",
+                        "codigo": "vs0702"
+                    },
+                    {
+                        "nombre": "Llaillay",
+                        "ciudad": "San Felipe",
+                        "codigo": "vs0703"
+                    },
+                    {
+                        "nombre": "Panquehue",
+                        "ciudad": "San Felipe",
+                        "codigo": "vs0704"
+                    },
+                    {
+                        "nombre": "Putaendo",
+                        "ciudad": "San Felipe",
+                        "codigo": "vs0705"
+                    },
+                    {
+                        "nombre": "Santa María",
+                        "ciudad": "San Felipe",
+                        "codigo": "vs0706"
+                    }
+                ]
             },
             {
-                "codigo": "6304",
-                "nombre": "LA ESTRELLA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "6109",
-                "nombre": "LAS CABRAS",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "6303",
-                "nombre": "LITUECHE",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "6206",
-                "nombre": "LOLOL",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "6102",
-                "nombre": "MACHALÍ",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "6115",
-                "nombre": "MALLOA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "6305",
-                "nombre": "MARCHIGÜE",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "6203",
-                "nombre": "NANCAGUA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "6302",
-                "nombre": "NAVIDAD",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "6114",
-                "nombre": "OLIVAR",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "6207",
-                "nombre": "PALMILLA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "6306",
-                "nombre": "PAREDONES",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "6208",
-                "nombre": "PERALILLO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "6108",
-                "nombre": "PEUMO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "6111",
-                "nombre": "PICHIDEGUA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "6301",
-                "nombre": "PICHILEMU",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "6204",
-                "nombre": "PLACILLA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "6214",
-                "nombre": "PUMANQUE",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "6117",
-                "nombre": "QUINTA DE TILCOCO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "6101",
-                "nombre": "RANCAGUA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "6112",
-                "nombre": "RENGO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "6113",
-                "nombre": "REQUÍNOA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "6201",
-                "nombre": "SAN FERNANDO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "6104",
-                "nombre": "SAN FRANCISCO DE MOSTAZAL",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "6110",
-                "nombre": "SAN VICENTE",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "6205",
-                "nombre": "SANTA CRUZ",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Marga Marga",
+                "capital": "Quilpué",
+                "comunas": [
+                    {
+                        "nombre": "Quilpué",
+                        "ciudad": "Quilpué",
+                        "codigo": "vs0801"
+                    },
+                    {
+                        "nombre": "Limache",
+                        "ciudad": "Quilpué",
+                        "codigo": "vs0802"
+                    },
+                    {
+                        "nombre": "Olmué",
+                        "ciudad": "Quilpué",
+                        "codigo": "vs0803"
+                    },
+                    {
+                        "nombre": "Villa Alemana",
+                        "ciudad": "Quilpué",
+                        "codigo": "vs0804"
+                    }
+                ]
             }
         ]
     },
     {
-        "codigo": 7,
-        "nombre": "REGIÓN DEL MAULE",
-        "comunas": [
+        "region": "Región del Libertador Gral. Bernardo O'Higgins",
+        "capital_regional": "Rancagua",
+        "provincias": [
             {
-                "codigo": "7401",
-                "nombre": "CAUQUENES",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Cachapoal",
+                "capital": "Rancagua",
+                "comunas": [
+                    {
+                        "nombre": "Rancagua",
+                        "ciudad": "Rancagua",
+                        "codigo": "li0101"
+                    },
+                    {
+                        "nombre": "Codegua",
+                        "ciudad": "Rancagua",
+                        "codigo": "li0102"
+                    },
+                    {
+                        "nombre": "Coinco",
+                        "ciudad": "Rancagua",
+                        "codigo": "li0103"
+                    },
+                    {
+                        "nombre": "Coltauco",
+                        "ciudad": "Rancagua",
+                        "codigo": "li0104"
+                    },
+                    {
+                        "nombre": "Doñihue",
+                        "ciudad": "Rancagua",
+                        "codigo": "li0105"
+                    },
+                    {
+                        "nombre": "Graneros",
+                        "ciudad": "Rancagua",
+                        "codigo": "li0106"
+                    },
+                    {
+                        "nombre": "Las Cabras",
+                        "ciudad": "Rancagua",
+                        "codigo": "li0107"
+                    },
+                    {
+                        "nombre": "Machalí",
+                        "ciudad": "Rancagua",
+                        "codigo": "li0108"
+                    },
+                    {
+                        "nombre": "Malloa",
+                        "ciudad": "Rancagua",
+                        "codigo": "li0109"
+                    },
+                    {
+                        "nombre": "Mostazal",
+                        "ciudad": "Rancagua",
+                        "codigo": "li0110"
+                    },
+                    {
+                        "nombre": "Olivar",
+                        "ciudad": "Rancagua",
+                        "codigo": "li0111"
+                    },
+                    {
+                        "nombre": "Peumo",
+                        "ciudad": "Rancagua",
+                        "codigo": "li0112"
+                    },
+                    {
+                        "nombre": "Pichidegua",
+                        "ciudad": "Rancagua",
+                        "codigo": "li0113"
+                    },
+                    {
+                        "nombre": "Quinta de Tilcoco",
+                        "ciudad": "Rancagua",
+                        "codigo": "li0114"
+                    },
+                    {
+                        "nombre": "Rengo",
+                        "ciudad": "Rancagua",
+                        "codigo": "li0115"
+                    },
+                    {
+                        "nombre": "Requínoa",
+                        "ciudad": "Rancagua",
+                        "codigo": "li0116"
+                    },
+                    {
+                        "nombre": "San Vicente",
+                        "ciudad": "Rancagua",
+                        "codigo": "li0117"
+                    }
+                ]
             },
             {
-                "codigo": "7403",
-                "nombre": "CHANCO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Cardenal Caro",
+                "capital": "Pichilemu",
+                "comunas": [
+                    {
+                        "nombre": "Pichilemu",
+                        "ciudad": "Pichilemu",
+                        "codigo": "li0201"
+                    },
+                    {
+                        "nombre": "La Estrella",
+                        "ciudad": "Pichilemu",
+                        "codigo": "li0202"
+                    },
+                    {
+                        "nombre": "Litueche",
+                        "ciudad": "Pichilemu",
+                        "codigo": "li0203"
+                    },
+                    {
+                        "nombre": "Marichihue",
+                        "ciudad": "Pichilemu",
+                        "codigo": "li0204"
+                    },
+                    {
+                        "nombre": "Navidad",
+                        "ciudad": "Pichilemu",
+                        "codigo": "li0205"
+                    },
+                    {
+                        "nombre": "Paredones",
+                        "ciudad": "Pichilemu",
+                        "codigo": "li0206"
+                    }
+                ]
             },
             {
-                "codigo": "7303",
-                "nombre": "COLBÚN",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "7208",
-                "nombre": "CONSTITUCIÓN",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "7207",
-                "nombre": "CUREPTO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "7101",
-                "nombre": "CURICÓ",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "7209",
-                "nombre": "EMPEDRADO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "7107",
-                "nombre": "HUALAÑÉ",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "7105",
-                "nombre": "LICANTÉN",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "7301",
-                "nombre": "LINARES",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "7304",
-                "nombre": "LONGAVÍ",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "7206",
-                "nombre": "MAULE",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "7108",
-                "nombre": "MOLINA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "7305",
-                "nombre": "PARRAL",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "7203",
-                "nombre": "PELARCO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "7402",
-                "nombre": "PELLUHUE",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "7205",
-                "nombre": "PENCAHUE",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "7104",
-                "nombre": "RAUCO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "7306",
-                "nombre": "RETIRO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "7103",
-                "nombre": "ROMERAL",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "7204",
-                "nombre": "RÍO CLARO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "7109",
-                "nombre": "SAGRADA FAMILIA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "7202",
-                "nombre": "SAN CLEMENTE",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "7310",
-                "nombre": "SAN JAVIER",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "7210",
-                "nombre": "SAN RAFAEL",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "7201",
-                "nombre": "TALCA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "7102",
-                "nombre": "TENO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "7106",
-                "nombre": "VICHUQUÉN",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "7309",
-                "nombre": "VILLA ALEGRE",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "7302",
-                "nombre": "YERBAS BUENAS",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Colchagua",
+                "capital": "San Fernando",
+                "comunas": [
+                    {
+                        "nombre": "San Fernando",
+                        "ciudad": "San Fernando",
+                        "codigo": "li0301"
+                    },
+                    {
+                        "nombre": "Chépica",
+                        "ciudad": "San Fernando",
+                        "codigo": "li0302"
+                    },
+                    {
+                        "nombre": "Chimbarongo",
+                        "ciudad": "San Fernando",
+                        "codigo": "li0303"
+                    },
+                    {
+                        "nombre": "Lolol",
+                        "ciudad": "San Fernando",
+                        "codigo": "li0304"
+                    },
+                    {
+                        "nombre": "Nancagua",
+                        "ciudad": "San Fernando",
+                        "codigo": "li0305"
+                    },
+                    {
+                        "nombre": "Palmilla",
+                        "ciudad": "San Fernando",
+                        "codigo": "li0306"
+                    },
+                    {
+                        "nombre": "Peralillo",
+                        "ciudad": "San Fernando",
+                        "codigo": "li0307"
+                    },
+                    {
+                        "nombre": "Placilla",
+                        "ciudad": "San Fernando",
+                        "codigo": "li0308"
+                    },
+                    {
+                        "nombre": "Pumanque",
+                        "ciudad": "San Fernando",
+                        "codigo": "li0309"
+                    },
+                    {
+                        "nombre": "Santa Cruz",
+                        "ciudad": "San Fernando",
+                        "codigo": "li0310"
+                    }
+                ]
             }
         ]
     },
     {
-        "codigo": 8,
-        "nombre": "REGIÓN DEL BÍO BÍO",
-        "comunas": [
+        "region": "Región del Maule",
+        "capital_regional": "Talca",
+        "provincias": [
             {
-                "codigo": "8414",
-                "nombre": "ALTO BIOBÍO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Talca",
+                "capital": "Talca",
+                "comunas": [
+                    {
+                        "nombre": "Talca",
+                        "ciudad": "Talca",
+                        "codigo": "ml0101"
+                    },
+                    {
+                        "nombre": "Constitución",
+                        "ciudad": "Talca",
+                        "codigo": "ml0102"
+                    },
+                    {
+                        "nombre": "Curepto",
+                        "ciudad": "Talca",
+                        "codigo": "ml0103"
+                    },
+                    {
+                        "nombre": "Empedrado",
+                        "ciudad": "Talca",
+                        "codigo": "ml0104"
+                    },
+                    {
+                        "nombre": "Maule",
+                        "ciudad": "Talca",
+                        "codigo": "ml0105"
+                    },
+                    {
+                        "nombre": "Pelarco",
+                        "ciudad": "Talca",
+                        "codigo": "ml0106"
+                    },
+                    {
+                        "nombre": "Pencahue",
+                        "ciudad": "Talca",
+                        "codigo": "ml0107"
+                    },
+                    {
+                        "nombre": "Río Claro",
+                        "ciudad": "Talca",
+                        "codigo": "ml0108"
+                    },
+                    {
+                        "nombre": "San Clemente",
+                        "ciudad": "Talca",
+                        "codigo": "ml0109"
+                    },
+                    {
+                        "nombre": "San Rafael",
+                        "ciudad": "Talca",
+                        "codigo": "ml0110"
+                    }
+                ]
             },
             {
-                "codigo": "8413",
-                "nombre": "ANTUCO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Cauquenes",
+                "capital": "Cauquenes",
+                "comunas": [
+                    {
+                        "nombre": "Cauquenes",
+                        "ciudad": "Cauquenes",
+                        "codigo": "ml0201"
+                    },
+                    {
+                        "nombre": "Chanco",
+                        "ciudad": "Cauquenes",
+                        "codigo": "ml0202"
+                    },
+                    {
+                        "nombre": "Pelluhue",
+                        "ciudad": "Cauquenes",
+                        "codigo": "ml0203"
+                    }
+                ]
             },
             {
-                "codigo": "8301",
-                "nombre": "ARAUCO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Curicó",
+                "capital": "Curicó",
+                "comunas": [
+                    {
+                        "nombre": "Curicó",
+                        "ciudad": "Curicó",
+                        "codigo": "ml0301"
+                    },
+                    {
+                        "nombre": "Hualañé",
+                        "ciudad": "Curicó",
+                        "codigo": "ml0302"
+                    },
+                    {
+                        "nombre": "Licantén",
+                        "ciudad": "Curicó",
+                        "codigo": "ml0303"
+                    },
+                    {
+                        "nombre": "Molina",
+                        "ciudad": "Curicó",
+                        "codigo": "ml0304"
+                    },
+                    {
+                        "nombre": "Rauco",
+                        "ciudad": "Curicó",
+                        "codigo": "ml0305"
+                    },
+                    {
+                        "nombre": "Romeral",
+                        "ciudad": "Curicó",
+                        "codigo": "ml0306"
+                    },
+                    {
+                        "nombre": "Sagrada Familia",
+                        "ciudad": "Curicó",
+                        "codigo": "ml0307"
+                    },
+                    {
+                        "nombre": "Teno",
+                        "ciudad": "Curicó",
+                        "codigo": "ml0308"
+                    },
+                    {
+                        "nombre": "Vichuquén",
+                        "ciudad": "Curicó",
+                        "codigo": "ml0309"
+                    }
+                ]
             },
             {
-                "codigo": "8410",
-                "nombre": "CABRERO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "8305",
-                "nombre": "CAÑETE",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "8211",
-                "nombre": "CHIGUAYANTE",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "8201",
-                "nombre": "CONCEPCIÓN",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "8306",
-                "nombre": "CONTULMO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "8207",
-                "nombre": "CORONEL",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "8302",
-                "nombre": "CURANILAHUE",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "8204",
-                "nombre": "FLORIDA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "8212",
-                "nombre": "HUALPÉN",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "8203",
-                "nombre": "HUALQUI",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "8403",
-                "nombre": "LAJA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "8303",
-                "nombre": "LEBU",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "8304",
-                "nombre": "LOS ALAMOS",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "8401",
-                "nombre": "LOS ANGELES",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "8208",
-                "nombre": "LOTA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "8407",
-                "nombre": "MULCHÉN",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "8405",
-                "nombre": "NACIMIENTO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "8406",
-                "nombre": "NEGRETE",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "8202",
-                "nombre": "PENCO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "8408",
-                "nombre": "QUILACO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "8404",
-                "nombre": "QUILLECO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "8210",
-                "nombre": "SAN PEDRO DE LA PAZ",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "8411",
-                "nombre": "SAN ROSENDO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "8402",
-                "nombre": "SANTA BÁRBARA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "8209",
-                "nombre": "SANTA JUANA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "8206",
-                "nombre": "TALCAHUANO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "8307",
-                "nombre": "TIRÚA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "8205",
-                "nombre": "TOMÉ",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "8412",
-                "nombre": "TUCAPEL",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "8409",
-                "nombre": "YUMBEL",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Linares",
+                "capital": "Linares",
+                "comunas": [
+                    {
+                        "nombre": "Linares",
+                        "ciudad": "Linares",
+                        "codigo": "ml0401"
+                    },
+                    {
+                        "nombre": "Colbún",
+                        "ciudad": "Linares",
+                        "codigo": "ml0402"
+                    },
+                    {
+                        "nombre": "Longaví",
+                        "ciudad": "Linares",
+                        "codigo": "ml0403"
+                    },
+                    {
+                        "nombre": "Parral",
+                        "ciudad": "Linares",
+                        "codigo": "ml0404"
+                    },
+                    {
+                        "nombre": "Retiro",
+                        "ciudad": "Linares",
+                        "codigo": "ml0405"
+                    },
+                    {
+                        "nombre": "San Javier",
+                        "ciudad": "Linares",
+                        "codigo": "ml0406"
+                    },
+                    {
+                        "nombre": "Villa Alegre",
+                        "ciudad": "Linares",
+                        "codigo": "ml0407"
+                    },
+                    {
+                        "nombre": "Yerbas Buenas",
+                        "ciudad": "Linares",
+                        "codigo": "ml0408"
+                    }
+                ]
             }
         ]
     },
     {
-        "codigo": 9,
-        "nombre": "REGIÓN DE LA ARAUCANÍA",
-        "comunas": [
+        "region": "Región del Biobío",
+        "capital_regional": "Concepción",
+        "provincias": [
             {
-                "codigo": "9101",
-                "nombre": "ANGOL",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Concepción",
+                "capital": "Concepción",
+                "comunas": [
+                    {
+                        "nombre": "Concepción",
+                        "ciudad": "Concepción",
+                        "codigo": "bi0101"
+                    },
+                    {
+                        "nombre": "Coronel",
+                        "ciudad": "Concepción",
+                        "codigo": "bi0102"
+                    },
+                    {
+                        "nombre": "Chiguayante",
+                        "ciudad": "Concepción",
+                        "codigo": "bi0103"
+                    },
+                    {
+                        "nombre": "Florida",
+                        "ciudad": "Concepción",
+                        "codigo": "bi0104"
+                    },
+                    {
+                        "nombre": "Hualqui",
+                        "ciudad": "Concepción",
+                        "codigo": "bi0105"
+                    },
+                    {
+                        "nombre": "Lota",
+                        "ciudad": "Concepción",
+                        "codigo": "bi0106"
+                    },
+                    {
+                        "nombre": "Penco",
+                        "ciudad": "Concepción",
+                        "codigo": "bi0107"
+                    },
+                    {
+                        "nombre": "San Pedro de la Paz",
+                        "ciudad": "Concepción",
+                        "codigo": "bi0108"
+                    },
+                    {
+                        "nombre": "Santa Juana",
+                        "ciudad": "Concepción",
+                        "codigo": "bi0109"
+                    },
+                    {
+                        "nombre": "Talcahuano",
+                        "ciudad": "Concepción",
+                        "codigo": "bi0110"
+                    },
+                    {
+                        "nombre": "Tomé",
+                        "ciudad": "Concepción",
+                        "codigo": "bi0111"
+                    },
+                    {
+                        "nombre": "Hualpén",
+                        "ciudad": "Concepción",
+                        "codigo": "bi0112"
+                    }
+                ]
             },
             {
-                "codigo": "9209",
-                "nombre": "CARAHUE",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Arauco",
+                "capital": "Lebu",
+                "comunas": [
+                    {
+                        "nombre": "Lebu",
+                        "ciudad": "Lebu",
+                        "codigo": "bi0201"
+                    },
+                    {
+                        "nombre": "Arauco",
+                        "ciudad": "Lebu",
+                        "codigo": "bi0202"
+                    },
+                    {
+                        "nombre": "Cañete",
+                        "ciudad": "Lebu",
+                        "codigo": "bi0203"
+                    },
+                    {
+                        "nombre": "Contulmo",
+                        "ciudad": "Lebu",
+                        "codigo": "bi0204"
+                    },
+                    {
+                        "nombre": "Curanilahue",
+                        "ciudad": "Lebu",
+                        "codigo": "bi0205"
+                    },
+                    {
+                        "nombre": "Los Álamos",
+                        "ciudad": "Lebu",
+                        "codigo": "bi0206"
+                    },
+                    {
+                        "nombre": "Tirúa",
+                        "ciudad": "Lebu",
+                        "codigo": "bi0207"
+                    }
+                ]
             },
             {
-                "codigo": "9221",
-                "nombre": "CHOLCHOL",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "9105",
-                "nombre": "COLLIPULLI",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "9204",
-                "nombre": "CUNCO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "9110",
-                "nombre": "CURACAUTÍN",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "9218",
-                "nombre": "CURARREHUE",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "9106",
-                "nombre": "ERCILLA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "9203",
-                "nombre": "FREIRE",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "9207",
-                "nombre": "GALVARINO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "9212",
-                "nombre": "GORBEA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "9205",
-                "nombre": "LAUTARO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "9214",
-                "nombre": "LONCOCHE",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "9111",
-                "nombre": "LONQUIMAY",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "9103",
-                "nombre": "LOS SAUCES",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "9108",
-                "nombre": "LUMACO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "9217",
-                "nombre": "MELIPEUCO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "9208",
-                "nombre": "NUEVA IMPERIAL",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "9220",
-                "nombre": "PADRE LAS CASAS",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "9206",
-                "nombre": "PERQUENCO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "9211",
-                "nombre": "PITRUFQUÉN",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "9216",
-                "nombre": "PUCÓN",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "9102",
-                "nombre": "PURÉN",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "9104",
-                "nombre": "RENAICO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "9210",
-                "nombre": "SAAVEDRA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "9201",
-                "nombre": "TEMUCO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "9219",
-                "nombre": "TEODORO SCHMIDT",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "9213",
-                "nombre": "TOLTÉN",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "9107",
-                "nombre": "TRAIGUÉN",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "9109",
-                "nombre": "VICTORIA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "9202",
-                "nombre": "VILCÚN",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "9215",
-                "nombre": "VILLARRICA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Biobío",
+                "capital": "Los Ángeles",
+                "comunas": [
+                    {
+                        "nombre": "Los Ángeles",
+                        "ciudad": "Los Ángeles",
+                        "codigo": "bi0301"
+                    },
+                    {
+                        "nombre": "Antuco",
+                        "ciudad": "Los Ángeles",
+                        "codigo": "bi0302"
+                    },
+                    {
+                        "nombre": "Cabrero",
+                        "ciudad": "Los Ángeles",
+                        "codigo": "bi0303"
+                    },
+                    {
+                        "nombre": "Laja",
+                        "ciudad": "Los Ángeles",
+                        "codigo": "bi0304"
+                    },
+                    {
+                        "nombre": "Mulchén",
+                        "ciudad": "Los Ángeles",
+                        "codigo": "bi0305"
+                    },
+                    {
+                        "nombre": "Nacimiento",
+                        "ciudad": "Los Ángeles",
+                        "codigo": "bi0306"
+                    },
+                    {
+                        "nombre": "Negrete",
+                        "ciudad": "Los Ángeles",
+                        "codigo": "bi0307"
+                    },
+                    {
+                        "nombre": "Quilaco",
+                        "ciudad": "Los Ángeles",
+                        "codigo": "bi0308"
+                    },
+                    {
+                        "nombre": "Quilleco",
+                        "ciudad": "Los Ángeles",
+                        "codigo": "bi0309"
+                    },
+                    {
+                        "nombre": "San Rosendo",
+                        "ciudad": "Los Ángeles",
+                        "codigo": "bi0310"
+                    },
+                    {
+                        "nombre": "Santa Bárbara",
+                        "ciudad": "Los Ángeles",
+                        "codigo": "bi0311"
+                    },
+                    {
+                        "nombre": "Tucapel",
+                        "ciudad": "Los Ángeles",
+                        "codigo": "bi0312"
+                    },
+                    {
+                        "nombre": "Yumbel",
+                        "ciudad": "Los Ángeles",
+                        "codigo": "bi0313"
+                    },
+                    {
+                        "nombre": "Alto Biobío",
+                        "ciudad": "Los Ángeles",
+                        "codigo": "bi0314"
+                    }
+                ]
             }
         ]
     },
     {
-        "codigo": 10,
-        "nombre": "REGIÓN DE LOS LAGOS",
-        "comunas": [
+        "region": "Región de Ñuble",
+        "capital_regional": "Chillán",
+        "provincias": [
             {
-                "codigo": "10406",
-                "nombre": "ANCUD",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Diguillín",
+                "capital": "Bulnes",
+                "comunas": [
+                    {
+                        "nombre": "Bulnes",
+                        "ciudad": "Bulnes",
+                        "codigo": "nb0101"
+                    },
+                    {
+                        "nombre": "Chillán",
+                        "ciudad": "Bulnes",
+                        "codigo": "nb0102"
+                    },
+                    {
+                        "nombre": "Chillán Viejo",
+                        "ciudad": "Bulnes",
+                        "codigo": "nb0103"
+                    },
+                    {
+                        "nombre": "El Carmen",
+                        "ciudad": "Bulnes",
+                        "codigo": "nb0104"
+                    },
+                    {
+                        "nombre": "Pemuco",
+                        "ciudad": "Bulnes",
+                        "codigo": "nb0105"
+                    },
+                    {
+                        "nombre": "Pinto",
+                        "ciudad": "Bulnes",
+                        "codigo": "nb0106"
+                    },
+                    {
+                        "nombre": "Quillón",
+                        "ciudad": "Bulnes",
+                        "codigo": "nb0107"
+                    },
+                    {
+                        "nombre": "San Ignacio",
+                        "ciudad": "Bulnes",
+                        "codigo": "nb0108"
+                    },
+                    {
+                        "nombre": "Yungay",
+                        "ciudad": "Bulnes",
+                        "codigo": "nb0109"
+                    }
+                ]
             },
             {
-                "codigo": "10309",
-                "nombre": "CALBUCO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Itata",
+                "capital": "Quirihue",
+                "comunas": [
+                    {
+                        "nombre": "Cobquecura",
+                        "ciudad": "Quirihue",
+                        "codigo": "nb0201"
+                    },
+                    {
+                        "nombre": "Coelemu",
+                        "ciudad": "Quirihue",
+                        "codigo": "nb0202"
+                    },
+                    {
+                        "nombre": "Ninhue",
+                        "ciudad": "Quirihue",
+                        "codigo": "nb0203"
+                    },
+                    {
+                        "nombre": "Portezuelo",
+                        "ciudad": "Quirihue",
+                        "codigo": "nb0204"
+                    },
+                    {
+                        "nombre": "Quirihue",
+                        "ciudad": "Quirihue",
+                        "codigo": "nb0205"
+                    },
+                    {
+                        "nombre": "Ránquil",
+                        "ciudad": "Quirihue",
+                        "codigo": "nb0206"
+                    },
+                    {
+                        "nombre": "Treguaco",
+                        "ciudad": "Quirihue",
+                        "codigo": "nb0207"
+                    }
+                ]
             },
             {
-                "codigo": "10401",
-                "nombre": "CASTRO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "10501",
-                "nombre": "CHAITÉN",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "10402",
-                "nombre": "CHONCHI",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "10302",
-                "nombre": "COCHAMÓ",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "10410",
-                "nombre": "CURACO DE VÉLEZ",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "10408",
-                "nombre": "DALCAHUE",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "10304",
-                "nombre": "FRESIA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "10305",
-                "nombre": "FRUTILLAR",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "10503",
-                "nombre": "FUTALEUFÚ",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "10502",
-                "nombre": "HUALAIHUÉ",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "10306",
-                "nombre": "LLANQUIHUE",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "10308",
-                "nombre": "LOS MUERMOS",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "10307",
-                "nombre": "MAULLÍN",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "10201",
-                "nombre": "OSORNO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "10504",
-                "nombre": "PALENA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "10301",
-                "nombre": "PUERTO MONTT",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "10203",
-                "nombre": "PUERTO OCTAY",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "10303",
-                "nombre": "PUERTO VARAS",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "10405",
-                "nombre": "PUQUELDÓN",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "10206",
-                "nombre": "PURRANQUE",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "10204",
-                "nombre": "PUYEHUE",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "10403",
-                "nombre": "QUEILÉN",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "10404",
-                "nombre": "QUELLÓN",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "10407",
-                "nombre": "QUEMCHI",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "10415",
-                "nombre": "QUINCHAO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "10205",
-                "nombre": "RÍO NEGRO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "10207",
-                "nombre": "SAN JUAN DE LA COSTA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "10202",
-                "nombre": "SAN PABLO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Punilla",
+                "capital": "San Carlos",
+                "comunas": [
+                    {
+                        "nombre": "Coihueco",
+                        "ciudad": "San Carlos",
+                        "codigo": "nb0301"
+                    },
+                    {
+                        "nombre": "Ñiquén",
+                        "ciudad": "San Carlos",
+                        "codigo": "nb0302"
+                    },
+                    {
+                        "nombre": "San Carlos",
+                        "ciudad": "San Carlos",
+                        "codigo": "nb0303"
+                    },
+                    {
+                        "nombre": "San Fabián",
+                        "ciudad": "San Carlos",
+                        "codigo": "nb0304"
+                    },
+                    {
+                        "nombre": "San Nicolas",
+                        "ciudad": "San Carlos",
+                        "codigo": "nb0305"
+                    }
+                ]
             }
         ]
     },
     {
-        "codigo": 11,
-        "nombre": "REGIÓN DE AYSÉN DEL GENERAL CARLOS IBAÑEZ DEL CAMPO",
-        "comunas": [
+        "region": "Región de La Araucanía",
+        "capital_regional": "Temuco",
+        "provincias": [
             {
-                "codigo": "11101",
-                "nombre": "AYSÉN",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Cautín",
+                "capital": "Temuco",
+                "comunas": [
+                    {
+                        "nombre": "Temuco",
+                        "ciudad": "Temuco",
+                        "codigo": "ar0101"
+                    },
+                    {
+                        "nombre": "Carahue",
+                        "ciudad": "Temuco",
+                        "codigo": "ar0102"
+                    },
+                    {
+                        "nombre": "Cunco",
+                        "ciudad": "Temuco",
+                        "codigo": "ar0103"
+                    },
+                    {
+                        "nombre": "Curarrehue",
+                        "ciudad": "Temuco",
+                        "codigo": "ar0104"
+                    },
+                    {
+                        "nombre": "Freire",
+                        "ciudad": "Temuco",
+                        "codigo": "ar0105"
+                    },
+                    {
+                        "nombre": "Galvarino",
+                        "ciudad": "Temuco",
+                        "codigo": "ar0106"
+                    },
+                    {
+                        "nombre": "Gorbea",
+                        "ciudad": "Temuco",
+                        "codigo": "ar0107"
+                    },
+                    {
+                        "nombre": "Lautaro",
+                        "ciudad": "Temuco",
+                        "codigo": "ar0108"
+                    },
+                    {
+                        "nombre": "Loncoche",
+                        "ciudad": "Temuco",
+                        "codigo": "ar0109"
+                    },
+                    {
+                        "nombre": "Melipeuco",
+                        "ciudad": "Temuco",
+                        "codigo": "ar0110"
+                    },
+                    {
+                        "nombre": "Nueva Imperial",
+                        "ciudad": "Temuco",
+                        "codigo": "ar0111"
+                    },
+                    {
+                        "nombre": "Padre Las Casas",
+                        "ciudad": "Temuco",
+                        "codigo": "ar0112"
+                    },
+                    {
+                        "nombre": "Perquenco",
+                        "ciudad": "Temuco",
+                        "codigo": "ar0113"
+                    },
+                    {
+                        "nombre": "Pitrufquén",
+                        "ciudad": "Temuco",
+                        "codigo": "ar0114"
+                    },
+                    {
+                        "nombre": "Pucón",
+                        "ciudad": "Temuco",
+                        "codigo": "ar0115"
+                    },
+                    {
+                        "nombre": "Saavedra",
+                        "ciudad": "Temuco",
+                        "codigo": "ar0116"
+                    },
+                    {
+                        "nombre": "Teodoro Schmidt",
+                        "ciudad": "Temuco",
+                        "codigo": "ar0117"
+                    },
+                    {
+                        "nombre": "Toltén",
+                        "ciudad": "Temuco",
+                        "codigo": "ar0118"
+                    },
+                    {
+                        "nombre": "Vilcún",
+                        "ciudad": "Temuco",
+                        "codigo": "ar0119"
+                    },
+                    {
+                        "nombre": "Villarrica",
+                        "ciudad": "Temuco",
+                        "codigo": "ar0120"
+                    },
+                    {
+                        "nombre": "Cholchol",
+                        "ciudad": "Temuco",
+                        "codigo": "ar0121"
+                    }
+                ]
             },
             {
-                "codigo": "11201",
-                "nombre": "CHILE CHICO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "11102",
-                "nombre": "CISNES",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "11301",
-                "nombre": "COCHRANE",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "11401",
-                "nombre": "COYHAIQUE",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "11104",
-                "nombre": "GUAITECAS",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "11402",
-                "nombre": "LAGO VERDE",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "11302",
-                "nombre": "O'HIGGINS",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "11203",
-                "nombre": "RÍO IBÁÑEZ",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "11303",
-                "nombre": "TORTEL",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Malleco",
+                "capital": "Angol",
+                "comunas": [
+                    {
+                        "nombre": "Angol",
+                        "ciudad": "Angol",
+                        "codigo": "ar0201"
+                    },
+                    {
+                        "nombre": "Collipulli",
+                        "ciudad": "Angol",
+                        "codigo": "ar0202"
+                    },
+                    {
+                        "nombre": "Curacautín",
+                        "ciudad": "Angol",
+                        "codigo": "ar0203"
+                    },
+                    {
+                        "nombre": "Ercilla",
+                        "ciudad": "Angol",
+                        "codigo": "ar0204"
+                    },
+                    {
+                        "nombre": "Lonquimay",
+                        "ciudad": "Angol",
+                        "codigo": "ar0205"
+                    },
+                    {
+                        "nombre": "Los Sauces",
+                        "ciudad": "Angol",
+                        "codigo": "ar0206"
+                    },
+                    {
+                        "nombre": "Lumaco",
+                        "ciudad": "Angol",
+                        "codigo": "ar0207"
+                    },
+                    {
+                        "nombre": "Purén",
+                        "ciudad": "Angol",
+                        "codigo": "ar0208"
+                    },
+                    {
+                        "nombre": "Renaico",
+                        "ciudad": "Angol",
+                        "codigo": "ar0209"
+                    },
+                    {
+                        "nombre": "Traiguén",
+                        "ciudad": "Angol",
+                        "codigo": "ar0210"
+                    },
+                    {
+                        "nombre": "Victoria",
+                        "ciudad": "Angol",
+                        "codigo": "ar0211"
+                    }
+                ]
             }
         ]
     },
     {
-        "codigo": 12,
-        "nombre": "REGIÓN DE MAGALLANES Y LA ANTÁRTICA CHILENA",
-        "comunas": [
+        "region": "Región de Los Ríos",
+        "capital_regional": "Valdivia",
+        "provincias": [
             {
-                "codigo": "12401",
-                "nombre": "CABO DE HORNOS",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Valdivia",
+                "capital": "Valdivia",
+                "comunas": [
+                    {
+                        "nombre": "Valdivia",
+                        "ciudad": "Valdivia",
+                        "codigo": "lr0101"
+                    },
+                    {
+                        "nombre": "Corral",
+                        "ciudad": "Valdivia",
+                        "codigo": "lr0102"
+                    },
+                    {
+                        "nombre": "Lanco",
+                        "ciudad": "Valdivia",
+                        "codigo": "lr0103"
+                    },
+                    {
+                        "nombre": "Los Lagos",
+                        "ciudad": "Valdivia",
+                        "codigo": "lr0104"
+                    },
+                    {
+                        "nombre": "Máfil",
+                        "ciudad": "Valdivia",
+                        "codigo": "lr0105"
+                    },
+                    {
+                        "nombre": "Mariquina",
+                        "ciudad": "Valdivia",
+                        "codigo": "lr0106"
+                    },
+                    {
+                        "nombre": "Paillaco",
+                        "ciudad": "Valdivia",
+                        "codigo": "lr0107"
+                    },
+                    {
+                        "nombre": "Panguipulli",
+                        "ciudad": "Valdivia",
+                        "codigo": "lr0108"
+                    }
+                ]
             },
             {
-                "codigo": "12206",
-                "nombre": "LAGUNA BLANCA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "12101",
-                "nombre": "NATALES",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "12301",
-                "nombre": "PORVENIR",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "12302",
-                "nombre": "PRIMAVERA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "12205",
-                "nombre": "PUNTA ARENAS",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "12202",
-                "nombre": "RÍO VERDE",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "12204",
-                "nombre": "SAN GREGORIO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "12304",
-                "nombre": "TIMAUKEL",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "12103",
-                "nombre": "TORRES DEL PAINE",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Ranco",
+                "capital": "La Unión",
+                "comunas": [
+                    {
+                        "nombre": "La Unión",
+                        "ciudad": "La Unión",
+                        "codigo": "lr0201"
+                    },
+                    {
+                        "nombre": "Futrono",
+                        "ciudad": "La Unión",
+                        "codigo": "lr0202"
+                    },
+                    {
+                        "nombre": "Lago Ranco",
+                        "ciudad": "La Unión",
+                        "codigo": "lr0203"
+                    },
+                    {
+                        "nombre": "Río Bueno",
+                        "ciudad": "La Unión",
+                        "codigo": "lr0204"
+                    }
+                ]
             }
         ]
     },
     {
-        "codigo": 13,
-        "nombre": "REGIÓN METROPOLITANA DE SANTIAGO",
-        "comunas": [
+        "region": "Región de Los Lagos",
+        "capital_regional": "Puerto Montt",
+        "provincias": [
             {
-                "codigo": "14605",
-                "nombre": "ALHUÉ",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Llanquihue",
+                "capital": "Puerto Montt",
+                "comunas": [
+                    {
+                        "nombre": "Puerto Montt",
+                        "ciudad": "Puerto Montt",
+                        "codigo": "ll0101"
+                    },
+                    {
+                        "nombre": "Calbuco",
+                        "ciudad": "Puerto Montt",
+                        "codigo": "ll0102"
+                    },
+                    {
+                        "nombre": "Cochamó",
+                        "ciudad": "Puerto Montt",
+                        "codigo": "ll0103"
+                    },
+                    {
+                        "nombre": "Fresia",
+                        "ciudad": "Puerto Montt",
+                        "codigo": "ll0104"
+                    },
+                    {
+                        "nombre": "Frutillar",
+                        "ciudad": "Puerto Montt",
+                        "codigo": "ll0105"
+                    },
+                    {
+                        "nombre": "Los Muermos",
+                        "ciudad": "Puerto Montt",
+                        "codigo": "ll0106"
+                    },
+                    {
+                        "nombre": "Llanquihue",
+                        "ciudad": "Puerto Montt",
+                        "codigo": "ll0107"
+                    },
+                    {
+                        "nombre": "Maullín",
+                        "ciudad": "Puerto Montt",
+                        "codigo": "ll0108"
+                    },
+                    {
+                        "nombre": "Puerto Varas",
+                        "ciudad": "Puerto Montt",
+                        "codigo": "ll0109"
+                    }
+                ]
             },
             {
-                "codigo": "16403",
-                "nombre": "BUIN",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Chiloé",
+                "capital": "Castro",
+                "comunas": [
+                    {
+                        "nombre": "Castro",
+                        "ciudad": "Castro",
+                        "codigo": "ll0201"
+                    },
+                    {
+                        "nombre": "Ancud",
+                        "ciudad": "Castro",
+                        "codigo": "ll0202"
+                    },
+                    {
+                        "nombre": "Chonchi",
+                        "ciudad": "Castro",
+                        "codigo": "ll0203"
+                    },
+                    {
+                        "nombre": "Curaco de Vélez",
+                        "ciudad": "Castro",
+                        "codigo": "ll0204"
+                    },
+                    {
+                        "nombre": "Dalcahue",
+                        "ciudad": "Castro",
+                        "codigo": "ll0205"
+                    },
+                    {
+                        "nombre": "Puqueldón",
+                        "ciudad": "Castro",
+                        "codigo": "ll0206"
+                    },
+                    {
+                        "nombre": "Queilén",
+                        "ciudad": "Castro",
+                        "codigo": "ll0207"
+                    },
+                    {
+                        "nombre": "Quellón",
+                        "ciudad": "Castro",
+                        "codigo": "ll0208"
+                    },
+                    {
+                        "nombre": "Quemchi",
+                        "ciudad": "Castro",
+                        "codigo": "ll0209"
+                    },
+                    {
+                        "nombre": "Quinchao",
+                        "ciudad": "Castro",
+                        "codigo": "ll0210"
+                    }
+                ]
             },
             {
-                "codigo": "16402",
-                "nombre": "CALERA DE TANGO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Osorno",
+                "capital": "Osorno",
+                "comunas": [
+                    {
+                        "nombre": "Osorno",
+                        "ciudad": "Osorno",
+                        "codigo": "ll0301"
+                    },
+                    {
+                        "nombre": "Puerto Octay",
+                        "ciudad": "Osorno",
+                        "codigo": "ll0302"
+                    },
+                    {
+                        "nombre": "Purranque",
+                        "ciudad": "Osorno",
+                        "codigo": "ll0303"
+                    },
+                    {
+                        "nombre": "Puyehue",
+                        "ciudad": "Osorno",
+                        "codigo": "ll0304"
+                    },
+                    {
+                        "nombre": "Río Negro",
+                        "ciudad": "Osorno",
+                        "codigo": "ll0305"
+                    },
+                    {
+                        "nombre": "San Juan de la Costa",
+                        "ciudad": "Osorno",
+                        "codigo": "ll0306"
+                    },
+                    {
+                        "nombre": "San Pablo",
+                        "ciudad": "Osorno",
+                        "codigo": "ll0307"
+                    }
+                ]
             },
             {
-                "codigo": "14166",
-                "nombre": "CERRILLOS",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "14156",
-                "nombre": "CERRO NAVIA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "14201",
-                "nombre": "COLINA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "14127",
-                "nombre": "CONCHALÍ",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "14603",
-                "nombre": "CURACAVÍ",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "16165",
-                "nombre": "EL BOSQUE",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "14503",
-                "nombre": "EL MONTE",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "14157",
-                "nombre": "ESTACIÓN CENTRAL",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "14158",
-                "nombre": "HUECHURABA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "13167",
-                "nombre": "INDEPENDENCIA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "14502",
-                "nombre": "ISLA DE MAIPO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "16110",
-                "nombre": "LA CISTERNA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "15128",
-                "nombre": "LA FLORIDA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "16131",
-                "nombre": "LA GRANJA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "16154",
-                "nombre": "LA PINTANA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "15132",
-                "nombre": "LA REINA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "14202",
-                "nombre": "LAMPA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "15108",
-                "nombre": "LAS CONDES",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "15161",
-                "nombre": "LO BARNECHEA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "16164",
-                "nombre": "LO ESPEJO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "14155",
-                "nombre": "LO PRADO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "15151",
-                "nombre": "MACUL",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "14109",
-                "nombre": "MAIPÚ",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "14602",
-                "nombre": "MARÍA PINTO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "14601",
-                "nombre": "MELIPILLA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "14505",
-                "nombre": "PADRE HURTADO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "16404",
-                "nombre": "PAINE",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "16162",
-                "nombre": "PEDRO AGUIRRE CERDA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "14504",
-                "nombre": "PEÑAFLOR",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "15152",
-                "nombre": "PEÑALOLÉN",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "16302",
-                "nombre": "PIRQUE",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "15103",
-                "nombre": "PROVIDENCIA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "14111",
-                "nombre": "PUDAHUEL",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "16301",
-                "nombre": "PUENTE ALTO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "14114",
-                "nombre": "QUILICURA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "14107",
-                "nombre": "QUINTA NORMAL",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "13159",
-                "nombre": "RECOLETA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "14113",
-                "nombre": "RENCA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "16401",
-                "nombre": "SAN BERNARDO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "16163",
-                "nombre": "SAN JOAQUÍN",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "16303",
-                "nombre": "SAN JOSÉ DE MAIPO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "16106",
-                "nombre": "SAN MIGUEL",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "14604",
-                "nombre": "SAN PEDRO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "16153",
-                "nombre": "SAN RAMÓN",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "13101",
-                "nombre": "SANTIAGO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "13134",
-                "nombre": "SANTIAGO OESTE",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "13135",
-                "nombre": "SANTIAGO SUR",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "14501",
-                "nombre": "TALAGANTE",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "14203",
-                "nombre": "TIL-TIL",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "15160",
-                "nombre": "VITACURA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "15105",
-                "nombre": "ÑUÑOA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Palena",
+                "capital": "Chaitén",
+                "comunas": [
+                    {
+                        "nombre": "Chaitén",
+                        "ciudad": "Chaitén",
+                        "codigo": "ll0401"
+                    },
+                    {
+                        "nombre": "Futaleufú",
+                        "ciudad": "Chaitén",
+                        "codigo": "ll0402"
+                    },
+                    {
+                        "nombre": "Hualaihué",
+                        "ciudad": "Chaitén",
+                        "codigo": "ll0403"
+                    },
+                    {
+                        "nombre": "Palena",
+                        "ciudad": "Chaitén",
+                        "codigo": "ll0404"
+                    }
+                ]
             }
         ]
     },
     {
-        "codigo": 14,
-        "nombre": "REGIÓN DE LOS RÍOS",
-        "comunas": [
+        "region": "Región de Aysén del General Carlos Ibáñez del Campo",
+        "capital_regional": "Coyhaique",
+        "provincias": [
             {
-                "codigo": "10106",
-                "nombre": "CORRAL",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Coyhaique",
+                "capital": "Coyhaique",
+                "comunas": [
+                    {
+                        "nombre": "Coyhaique",
+                        "ciudad": "Coyhaique",
+                        "codigo": "ai0101"
+                    },
+                    {
+                        "nombre": "Lago Verde",
+                        "ciudad": "Coyhaique",
+                        "codigo": "ai0102"
+                    }
+                ]
             },
             {
-                "codigo": "10105",
-                "nombre": "FUTRONO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Aysén",
+                "capital": "Puerto Aysén",
+                "comunas": [
+                    {
+                        "nombre": "Aysén",
+                        "ciudad": "Puerto Aysén",
+                        "codigo": "ai0201"
+                    },
+                    {
+                        "nombre": "Cisnes",
+                        "ciudad": "Puerto Aysén",
+                        "codigo": "ai0202"
+                    },
+                    {
+                        "nombre": "Guaitecas",
+                        "ciudad": "Puerto Aysén",
+                        "codigo": "ai0203"
+                    }
+                ]
             },
             {
-                "codigo": "10109",
-                "nombre": "LA UNIÓN",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Capitán Pratt",
+                "capital": "Cochrane",
+                "comunas": [
+                    {
+                        "nombre": "Cochrane",
+                        "ciudad": "Cochrane",
+                        "codigo": "ai0301"
+                    },
+                    {
+                        "nombre": "O’Higgins",
+                        "ciudad": "Cochrane",
+                        "codigo": "ai0302"
+                    },
+                    {
+                        "nombre": "Tortel",
+                        "ciudad": "Cochrane",
+                        "codigo": "ai0303"
+                    }
+                ]
             },
             {
-                "codigo": "10112",
-                "nombre": "LAGO RANCO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "10103",
-                "nombre": "LANCO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "10104",
-                "nombre": "LOS LAGOS",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "10102",
-                "nombre": "MARIQUINA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "10107",
-                "nombre": "MÁFIL",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "10110",
-                "nombre": "PAILLACO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "10108",
-                "nombre": "PANGUIPULLI",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "10111",
-                "nombre": "RÍO BUENO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "10101",
-                "nombre": "VALDIVIA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "General Carrera",
+                "capital": "Chile Chico",
+                "comunas": [
+                    {
+                        "nombre": "Chile Chico",
+                        "ciudad": "Chile Chico",
+                        "codigo": "ai0401"
+                    },
+                    {
+                        "nombre": "Río Ibáñez",
+                        "ciudad": "Chile Chico",
+                        "codigo": "ai0402"
+                    }
+                ]
             }
         ]
     },
     {
-        "codigo": 15,
-        "nombre": "REGIÓN DE ARICA Y PARINACOTA",
-        "comunas": [
+        "region": "Región de Magallanes y de la Antártica Chilena",
+        "capital_regional": "Punta Arenas",
+        "provincias": [
             {
-                "codigo": "1101",
-                "nombre": "ARICA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Magallanes",
+                "capital": "Punta Arenas",
+                "comunas": [
+                    {
+                        "nombre": "Punta Arenas",
+                        "ciudad": "Punta Arenas",
+                        "codigo": "ma0101"
+                    },
+                    {
+                        "nombre": "Laguna Blanca",
+                        "ciudad": "Punta Arenas",
+                        "codigo": "ma0102"
+                    },
+                    {
+                        "nombre": "Río Verde",
+                        "ciudad": "Punta Arenas",
+                        "codigo": "ma0103"
+                    },
+                    {
+                        "nombre": "San Gregorio",
+                        "ciudad": "Punta Arenas",
+                        "codigo": "ma0104"
+                    }
+                ]
             },
             {
-                "codigo": "1106",
-                "nombre": "CAMARONES",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Antártica Chilena",
+                "capital": "Puerto Williams",
+                "comunas": [
+                    {
+                        "nombre": "Cabo de Hornos (Ex. Navarino)",
+                        "ciudad": "Puerto Williams",
+                        "codigo": "ma0201"
+                    },
+                    {
+                        "nombre": "Antártica",
+                        "ciudad": "Puerto Williams",
+                        "codigo": "ma0202"
+                    }
+                ]
             },
             {
-                "codigo": "1302",
-                "nombre": "GENERAL LAGOS",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Tierra del Fuego",
+                "capital": "Porvenir",
+                "comunas": [
+                    {
+                        "nombre": "Porvenir",
+                        "ciudad": "Porvenir",
+                        "codigo": "ma0301"
+                    },
+                    {
+                        "nombre": "Primavera",
+                        "ciudad": "Porvenir",
+                        "codigo": "ma0302"
+                    },
+                    {
+                        "nombre": "Timaukel",
+                        "ciudad": "Porvenir",
+                        "codigo": "ma0303"
+                    }
+                ]
             },
             {
-                "codigo": "1301",
-                "nombre": "PUTRE",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Última Esperanza",
+                "capital": "Puerto Natales",
+                "comunas": [
+                    {
+                        "nombre": "Natales",
+                        "ciudad": "Puerto Natales",
+                        "codigo": "ma0401"
+                    },
+                    {
+                        "nombre": "Torres del Paine",
+                        "ciudad": "Puerto Natales",
+                        "codigo": "ma0402"
+                    }
+                ]
             }
         ]
     },
     {
-        "codigo": 16,
-        "nombre": "REGIÓN DE ÑUBLE",
-        "comunas": [
+        "region": "Región Metropolitana de Santiago",
+        "capital_regional": "Santiago",
+        "provincias": [
             {
-                "codigo": "8113",
-                "nombre": "BULNES",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Santiago",
+                "capital": "Santiago",
+                "comunas": [
+                    {
+                        "nombre": "Santiago",
+                        "ciudad": "Santiago",
+                        "codigo": "rm0101"
+                    },
+                    {
+                        "nombre": "Cerrillos",
+                        "ciudad": "Santiago",
+                        "codigo": "rm0102"
+                    },
+                    {
+                        "nombre": "Cerro Navia",
+                        "ciudad": "Santiago",
+                        "codigo": "rm0103"
+                    },
+                    {
+                        "nombre": "Conchalí",
+                        "ciudad": "Santiago",
+                        "codigo": "rm0104"
+                    },
+                    {
+                        "nombre": "El Bosque",
+                        "ciudad": "Santiago",
+                        "codigo": "rm0105"
+                    },
+                    {
+                        "nombre": "Estación Central",
+                        "ciudad": "Santiago",
+                        "codigo": "rm0106"
+                    },
+                    {
+                        "nombre": "Huechuraba",
+                        "ciudad": "Santiago",
+                        "codigo": "rm0107"
+                    },
+                    {
+                        "nombre": "Independencia",
+                        "ciudad": "Santiago",
+                        "codigo": "rm0108"
+                    },
+                    {
+                        "nombre": "La Cisterna",
+                        "ciudad": "Santiago",
+                        "codigo": "rm0109"
+                    },
+                    {
+                        "nombre": "La Florida",
+                        "ciudad": "Santiago",
+                        "codigo": "rm0110"
+                    },
+                    {
+                        "nombre": "La Granja",
+                        "ciudad": "Santiago",
+                        "codigo": "rm0111"
+                    },
+                    {
+                        "nombre": "La Pintana",
+                        "ciudad": "Santiago",
+                        "codigo": "rm0112"
+                    },
+                    {
+                        "nombre": "La Reina",
+                        "ciudad": "Santiago",
+                        "codigo": "rm0113"
+                    },
+                    {
+                        "nombre": "Las Condes",
+                        "ciudad": "Santiago",
+                        "codigo": "rm0114"
+                    },
+                    {
+                        "nombre": "Lo Barnechea",
+                        "ciudad": "Santiago",
+                        "codigo": "rm0115"
+                    },
+                    {
+                        "nombre": "Lo Espejo",
+                        "ciudad": "Santiago",
+                        "codigo": "rm0116"
+                    },
+                    {
+                        "nombre": "Lo Prado",
+                        "ciudad": "Santiago",
+                        "codigo": "rm0117"
+                    },
+                    {
+                        "nombre": "Macul",
+                        "ciudad": "Santiago",
+                        "codigo": "rm0118"
+                    },
+                    {
+                        "nombre": "Maipú",
+                        "ciudad": "Santiago",
+                        "codigo": "rm0119"
+                    },
+                    {
+                        "nombre": "Ñuñoa",
+                        "ciudad": "Santiago",
+                        "codigo": "rm0120"
+                    },
+                    {
+                        "nombre": "Pedro Aguirre Cerda",
+                        "ciudad": "Santiago",
+                        "codigo": "rm0121"
+                    },
+                    {
+                        "nombre": "Peñalolén",
+                        "ciudad": "Santiago",
+                        "codigo": "rm0122"
+                    },
+                    {
+                        "nombre": "Providencia",
+                        "ciudad": "Santiago",
+                        "codigo": "rm0123"
+                    },
+                    {
+                        "nombre": "Pudahuel",
+                        "ciudad": "Santiago",
+                        "codigo": "rm0124"
+                    },
+                    {
+                        "nombre": "Quilicura",
+                        "ciudad": "Santiago",
+                        "codigo": "rm0125"
+                    },
+                    {
+                        "nombre": "Quinta Normal",
+                        "ciudad": "Santiago",
+                        "codigo": "rm0126"
+                    },
+                    {
+                        "nombre": "Recoleta",
+                        "ciudad": "Santiago",
+                        "codigo": "rm0127"
+                    },
+                    {
+                        "nombre": "Renca",
+                        "ciudad": "Santiago",
+                        "codigo": "rm0128"
+                    },
+                    {
+                        "nombre": "San Joaquín",
+                        "ciudad": "Santiago",
+                        "codigo": "rm0129"
+                    },
+                    {
+                        "nombre": "San Miguel",
+                        "ciudad": "Santiago",
+                        "codigo": "rm0130"
+                    },
+                    {
+                        "nombre": "San Ramón",
+                        "ciudad": "Santiago",
+                        "codigo": "rm0131"
+                    },
+                    {
+                        "nombre": "Vitacura",
+                        "ciudad": "Santiago",
+                        "codigo": "rm0132"
+                    }
+                ]
             },
             {
-                "codigo": "8101",
-                "nombre": "CHILLÁN",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Cordillera",
+                "capital": "Puente Alto",
+                "comunas": [
+                    {
+                        "nombre": "Puente Alto",
+                        "ciudad": "Puente Alto",
+                        "codigo": "rm0201"
+                    },
+                    {
+                        "nombre": "Pirque",
+                        "ciudad": "Puente Alto",
+                        "codigo": "rm0202"
+                    },
+                    {
+                        "nombre": "San José de Maipo",
+                        "ciudad": "Puente Alto",
+                        "codigo": "rm0203"
+                    }
+                ]
             },
             {
-                "codigo": "8121",
-                "nombre": "CHILLÁN VIEJO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Chacabuco",
+                "capital": "Colina",
+                "comunas": [
+                    {
+                        "nombre": "Colina",
+                        "ciudad": "Colina",
+                        "codigo": "rm0301"
+                    },
+                    {
+                        "nombre": "Lampa",
+                        "ciudad": "Colina",
+                        "codigo": "rm0302"
+                    },
+                    {
+                        "nombre": "Tiltil",
+                        "ciudad": "Colina",
+                        "codigo": "rm0303"
+                    }
+                ]
             },
             {
-                "codigo": "8107",
-                "nombre": "COBQUECURA",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Maipo",
+                "capital": "San Bernardo",
+                "comunas": [
+                    {
+                        "nombre": "San Bernardo",
+                        "ciudad": "San Bernardo",
+                        "codigo": "rm0401"
+                    },
+                    {
+                        "nombre": "Buin",
+                        "ciudad": "San Bernardo",
+                        "codigo": "rm0402"
+                    },
+                    {
+                        "nombre": "Calera de Tango",
+                        "ciudad": "San Bernardo",
+                        "codigo": "rm0403"
+                    },
+                    {
+                        "nombre": "Paine",
+                        "ciudad": "San Bernardo",
+                        "codigo": "rm0404"
+                    }
+                ]
             },
             {
-                "codigo": "8120",
-                "nombre": "COELEMU",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Melipilla",
+                "capital": "Melipilla",
+                "comunas": [
+                    {
+                        "nombre": "Melipilla",
+                        "ciudad": "Melipilla",
+                        "codigo": "rm0501"
+                    },
+                    {
+                        "nombre": "Alhué",
+                        "ciudad": "Melipilla",
+                        "codigo": "rm0502"
+                    },
+                    {
+                        "nombre": "Curacaví",
+                        "ciudad": "Melipilla",
+                        "codigo": "rm0503"
+                    },
+                    {
+                        "nombre": "María Pinto",
+                        "ciudad": "Melipilla",
+                        "codigo": "rm0504"
+                    },
+                    {
+                        "nombre": "San Pedro",
+                        "ciudad": "Melipilla",
+                        "codigo": "rm0505"
+                    }
+                ]
             },
             {
-                "codigo": "8103",
-                "nombre": "COIHUECO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "8118",
-                "nombre": "EL CARMEN",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "8105",
-                "nombre": "NINHUE",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "8117",
-                "nombre": "PEMUCO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "8102",
-                "nombre": "PINTO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "8106",
-                "nombre": "PORTEZUELO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "8115",
-                "nombre": "QUILLÓN",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "8104",
-                "nombre": "QUIRIHUE",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "8119",
-                "nombre": "RÁNQUIL",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "8109",
-                "nombre": "SAN CARLOS",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "8111",
-                "nombre": "SAN FABIÁN",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "8114",
-                "nombre": "SAN IGNACIO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "8112",
-                "nombre": "SAN NICOLÁS",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "8108",
-                "nombre": "TREHUACO",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "8116",
-                "nombre": "YUNGAY",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
-            },
-            {
-                "codigo": "8110",
-                "nombre": "ÑIQUÉN",
-                "direccionRegionalUnneCodigo": 0,
-                "direccionRegionalNombre": null,
-                "codigoUnidadResolutora": 0,
-                "servicios": null
+                "nombre": "Talagante",
+                "capital": "Talagante",
+                "comunas": [
+                    {
+                        "nombre": "Talagante",
+                        "ciudad": "Talagante",
+                        "codigo": "rm0601"
+                    },
+                    {
+                        "nombre": "El Monte",
+                        "ciudad": "Talagante",
+                        "codigo": "rm0602"
+                    },
+                    {
+                        "nombre": "Isla de Maipo",
+                        "ciudad": "Talagante",
+                        "codigo": "rm0603"
+                    },
+                    {
+                        "nombre": "Padre Hurtado",
+                        "ciudad": "Talagante",
+                        "codigo": "rm0604"
+                    },
+                    {
+                        "nombre": "Peñaflor",
+                        "ciudad": "Talagante",
+                        "codigo": "rm0605"
+                    }
+                ]
             }
         ]
     }
